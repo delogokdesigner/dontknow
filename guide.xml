@@ -1,875 +1,1938 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="RTPHD">
-    <display-name lang="pt">RTPHD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="RTP 2">
-    <display-name lang="pt">RTP 2</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC">
-    <display-name lang="pt">SIC</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVI HD">
-    <display-name lang="pt">TVI HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC Notícias">
-    <display-name lang="pt">SIC Notícias</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="RTP 3">
-    <display-name lang="pt">RTP 3</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVI24 HD">
-    <display-name lang="pt">TVI24 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="CMTV Portugal">
-    <display-name lang="pt">CMTV Portugal</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Sport TV +">
-    <display-name lang="pt">Sport TV +</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TV Globo Básico">
-    <display-name lang="pt">TV Globo Básico</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Canal 11 HD">
-    <display-name lang="pt">Canal 11 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="PORTOC HD">
-    <display-name lang="pt">PORTOC HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC Caras">
-    <display-name lang="pt">SIC Caras</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC Radical">
-    <display-name lang="pt">SIC Radical</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC Mulher">
-    <display-name lang="pt">SIC Mulher</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="RTP Memoria">
-    <display-name lang="pt">RTP Memoria</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="24Kitchen HD">
-    <display-name lang="pt">24Kitchen HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Canal Q HD">
-    <display-name lang="pt">Canal Q HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SPORT TV1">
-    <display-name lang="pt">SPORT TV1</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SPORT TV2">
-    <display-name lang="pt">SPORT TV2</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SPORT TV3">
-    <display-name lang="pt">SPORT TV3</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SPORT TV4">
-    <display-name lang="pt">SPORT TV4</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SPORT TV5">
-    <display-name lang="pt">SPORT TV5</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Sport TV + HD">
-    <display-name lang="pt">Sport TV + HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Sport TV 1 HD">
-    <display-name lang="pt">Sport TV 1 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Sport TV 2 HD">
-    <display-name lang="pt">Sport TV 2 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Sport TV 3 HD">
-    <display-name lang="pt">Sport TV 3 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Sport TV 4 HD">
-    <display-name lang="pt">Sport TV 4 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Sport TV 5 HD">
-    <display-name lang="pt">Sport TV 5 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="A Bola TV HD">
-    <display-name lang="pt">A Bola TV HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Benfica TV">
-    <display-name lang="pt">Benfica TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Benfica TV HD">
-    <display-name lang="pt">Benfica TV HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Sporting TV">
-    <display-name lang="pt">Sporting TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Sporting TV HD">
-    <display-name lang="pt">Sporting TV HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SPTV NBA">
-    <display-name lang="pt">SPTV NBA</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Eurosport">
-    <display-name lang="pt">Eurosport</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Eurosport HD">
-    <display-name lang="pt">Eurosport HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Eurosport 2">
-    <display-name lang="pt">Eurosport 2</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Eurosport 2 HD">
-    <display-name lang="pt">Eurosport 2 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
   <channel id="Eleven Sports 1">
-    <display-name lang="pt">Eleven Sports 1</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">Eleven Sports 1</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="Eleven Sports 2">
-    <display-name lang="pt">Eleven Sports 2</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">Eleven Sports 2</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="Eleven Sports 3">
-    <display-name lang="pt">Eleven Sports 3</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">Eleven Sports 3</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="Eleven Sports 4">
-    <display-name lang="pt">Eleven Sports 4</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">Eleven Sports 4</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="Eleven Sports 5">
-    <display-name lang="pt">Eleven Sports 5</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">Eleven Sports 5</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="Eleven Sports 6">
-    <display-name lang="pt">Eleven Sports 6</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fuel TV HD">
-    <display-name lang="pt">Fuel TV HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="PFC">
-    <display-name lang="pt">PFC</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Disney Channel">
-    <display-name lang="pt">Disney Channel</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Disney Junior">
-    <display-name lang="pt">Disney Junior</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Cartoon Network">
-    <display-name lang="pt">Cartoon Network</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Panda">
-    <display-name lang="pt">Panda</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Panda Biggs">
-    <display-name lang="pt">Panda Biggs</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Baby TV">
-    <display-name lang="pt">Baby TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC K">
-    <display-name lang="pt">SIC K</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Boomerang">
-    <display-name lang="pt">Boomerang</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Nickelodeon">
-    <display-name lang="pt">Nickelodeon</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Super RTL">
-    <display-name lang="pt">Super RTL</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVCine Top">
-    <display-name lang="pt">TVCine Top</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVCine Edition">
-    <display-name lang="pt">TVCine Edition</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVCine Emotion">
-    <display-name lang="pt">TVCine Emotion</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVCine Action">
-    <display-name lang="pt">TVCine Action</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVCine Top HD">
-    <display-name lang="pt">TVCine Top HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVCine Edition HD">
-    <display-name lang="pt">TVCine Edition HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVCine Emotion HD">
-    <display-name lang="pt">TVCine Emotion HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVCine Action HD">
-    <display-name lang="pt">TVCine Action HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TV Series HD">
-    <display-name lang="pt">TV Series HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TV Series">
-    <display-name lang="pt">TV Series</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Hollywood HD">
-    <display-name lang="pt">Hollywood HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Hollywood">
-    <display-name lang="pt">Hollywood</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Cinemundo">
-    <display-name lang="pt">Cinemundo</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Cinemundo SD">
-    <display-name lang="pt">Cinemundo SD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fox Movies HD">
-    <display-name lang="pt">Fox Movies HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fox Movies">
-    <display-name lang="pt">Fox Movies</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fox HD">
-    <display-name lang="pt">Fox HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="FOX">
-    <display-name lang="pt">FOX</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="AXN HD">
-    <display-name lang="pt">AXN HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="AXN">
-    <display-name lang="pt">AXN</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fox Life HD">
-    <display-name lang="pt">Fox Life HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fox Life">
-    <display-name lang="pt">Fox Life</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fox Crime HD">
-    <display-name lang="pt">Fox Crime HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="FOX Crime">
-    <display-name lang="pt">FOX Crime</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="FOX Comedy">
-    <display-name lang="pt">FOX Comedy</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="FOX Comedy HD">
-    <display-name lang="pt">FOX Comedy HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="AXN White HD">
-    <display-name lang="pt">AXN White HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="AXN White">
-    <display-name lang="pt">AXN White</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="AXN Movies HD">
-    <display-name lang="pt">AXN Movies HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="AXN Movies">
-    <display-name lang="pt">AXN Movies</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SyFy HD">
-    <display-name lang="pt">SyFy HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SyFy SD">
-    <display-name lang="pt">SyFy SD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="AMC HD">
-    <display-name lang="pt">AMC HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="AMC">
-    <display-name lang="pt">AMC</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="MTV Portugal HD">
-    <display-name lang="pt">MTV Portugal HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="MTV Portugal">
-    <display-name lang="pt">MTV Portugal</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="VH1 Europe">
-    <display-name lang="pt">VH1 Europe</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Stingray Classica HD">
-    <display-name lang="pt">Stingray Classica HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="DJAZZ">
-    <display-name lang="pt">DJAZZ</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="MCM TOP SD">
-    <display-name lang="pt">MCM TOP SD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="MCM TOP">
-    <display-name lang="pt">MCM TOP</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="MCM POP">
-    <display-name lang="pt">MCM POP</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="C Music TV">
-    <display-name lang="pt">C Music TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="MEZZO">
-    <display-name lang="pt">MEZZO</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="AfroMusic Portugal">
-    <display-name lang="pt">AfroMusic Portugal</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Trace TV HD">
-    <display-name lang="pt">Trace TV HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Trace TV">
-    <display-name lang="pt">Trace TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Trace Toca">
-    <display-name lang="pt">Trace Toca</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="MEZZO Live HD">
-    <display-name lang="pt">MEZZO Live HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="S+">
-    <display-name lang="pt">S+</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Discovery HD">
-    <display-name lang="pt">Discovery HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Discovery">
-    <display-name lang="pt">Discovery</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Nat Geo HD">
-    <display-name lang="pt">Nat Geo HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Nat Geo">
-    <display-name lang="pt">Nat Geo</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Nat Geo Wild HD">
-    <display-name lang="pt">Nat Geo Wild HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="NGC Wild">
-    <display-name lang="pt">NGC Wild</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="História">
-    <display-name lang="pt">História</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Odisseia">
-    <display-name lang="pt">Odisseia</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Odisseia HD">
-    <display-name lang="pt">Odisseia HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Docubox HD">
-    <display-name lang="pt">Docubox HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Blaze">
-    <display-name lang="pt">Blaze</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Blaze HD">
-    <display-name lang="pt">Blaze HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TLC">
-    <display-name lang="pt">TLC</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="E! HD">
-    <display-name lang="pt">E! HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="E!">
-    <display-name lang="pt">E!</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Travel HD">
-    <display-name lang="pt">Travel HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Travel">
-    <display-name lang="pt">Travel</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fashion TV HD">
-    <display-name lang="pt">Fashion TV HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fashion TV">
-    <display-name lang="pt">Fashion TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Food Network HD">
-    <display-name lang="pt">Food Network HD</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">Eleven Sports 6</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="en">Eurosport</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="en">Eurosport 2</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="Food Network">
-    <display-name lang="pt">Food Network</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">Food Network</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="24Kitchen">
-    <display-name lang="pt">24Kitchen</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="FOX">
+    <display-name lang="en">FOX</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="BBC Entertainment">
-    <display-name lang="pt">BBC Entertainment</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="FOX Comedy">
+    <display-name lang="en">FOX Comedy</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="Melody Zen. TV">
-    <display-name lang="pt">Melody Zen. TV</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="FOX Crime">
+    <display-name lang="en">FOX Crime</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="Luxe TV HD">
-    <display-name lang="pt">Luxe TV HD</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="FOX Life">
+    <display-name lang="en">FOX Life</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="CANAL Q">
-    <display-name lang="pt">CANAL Q</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="Fox Movies">
+    <display-name lang="en">Fox Movies</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="GINX">
-    <display-name lang="pt">GINX</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="QYOU HD">
-    <display-name lang="pt">QYOU HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="QYOU SD">
-    <display-name lang="pt">QYOU SD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Globo Now HD">
-    <display-name lang="pt">Globo Now HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Globo Now">
-    <display-name lang="pt">Globo Now</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TV Record HD">
-    <display-name lang="pt">TV Record HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TV Record">
-    <display-name lang="pt">TV Record</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Euronews EN">
-    <display-name lang="pt">Euronews EN</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="CNN">
-    <display-name lang="pt">CNN</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Euronews">
-    <display-name lang="pt">Euronews</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Bloomberg">
-    <display-name lang="pt">Bloomberg</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Sky News">
-    <display-name lang="pt">Sky News</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="BBC World News">
-    <display-name lang="pt">BBC World News</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="CNBC">
-    <display-name lang="pt">CNBC</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Al Jazeera English">
-    <display-name lang="pt">Al Jazeera English</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="RAI News">
-    <display-name lang="pt">RAI News</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Phoenix InfoNews">
-    <display-name lang="pt">Phoenix InfoNews</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVE 24h">
-    <display-name lang="pt">TVE 24h</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Deutche Welle">
-    <display-name lang="pt">Deutche Welle</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="France 24 Eng">
-    <display-name lang="pt">France 24 Eng</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="France 24 FR">
-    <display-name lang="pt">France 24 FR</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Record News">
-    <display-name lang="pt">Record News</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="CMTV HD">
-    <display-name lang="pt">CMTV HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Canal 180">
-    <display-name lang="pt">Canal 180</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Canal 180 HD">
-    <display-name lang="pt">Canal 180 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="A Bola TV">
-    <display-name lang="pt">A Bola TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Canal 11">
-    <display-name lang="pt">Canal 11</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="RTP Madeira">
-    <display-name lang="pt">RTP Madeira</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="FOX News">
+    <display-name lang="en">FOX News</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="RTP Açores">
-    <display-name lang="pt">RTP Açores</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">RTP Açores</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="Porto Canal">
-    <display-name lang="pt">Porto Canal</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="RTP África">
+    <display-name lang="en">RTP África</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="Canção Nova TV">
-    <display-name lang="pt">Canção Nova TV</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="RTP Madeira">
+    <display-name lang="en">RTP Madeira</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="Canal Parlamento">
-    <display-name lang="pt">Canal Parlamento</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="RTP Memória">
+    <display-name lang="en">RTP Memória</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="Localvisão HD">
-    <display-name lang="pt">Localvisão HD</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="RTP1">
+    <display-name lang="en">RTP1</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="Localvisão">
-    <display-name lang="pt">Localvisão</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="RTP2">
+    <display-name lang="en">RTP2</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="RTP Africa">
-    <display-name lang="pt">RTP Africa</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="RTP3">
+    <display-name lang="en">RTP3</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="TPA Internacional">
-    <display-name lang="pt">TPA Internacional</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="SIC K">
+    <display-name lang="en">SIC K</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="TVC NEWS">
-    <display-name lang="pt">TVC NEWS</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="SIC Mulher">
+    <display-name lang="en">SIC Mulher</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="TCVi">
-    <display-name lang="pt">TCVi</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="SIC Notícias">
+    <display-name lang="en">SIC Notícias</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="UATV">
-    <display-name lang="pt">UATV</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="SIC Radical">
+    <display-name lang="en">SIC Radical</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="VOX">
-    <display-name lang="pt">VOX</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="Sky News">
+    <display-name lang="en">Sky News</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="RTL">
-    <display-name lang="pt">RTL</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="SPORT TV 1">
+    <display-name lang="en">SPORT TV 1</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="en">SPORT TV 2</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="en">SPORT TV 3</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="SPORT TV 4">
+    <display-name lang="en">SPORT TV 4</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="SPORT TV 5">
+    <display-name lang="en">SPORT TV 5</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="Sporting TV">
+    <display-name lang="en">Sporting TV</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="en">Travel Channel</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="TV Galicia">
-    <display-name lang="pt">TV Galicia</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">TV Galicia</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="RTP 1">
-    <display-name lang="pt">RTP 1</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="TV Record">
+    <display-name lang="en">TV Record</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="TVE Internacional">
-    <display-name lang="pt">TVE Internacional</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="M6">
-    <display-name lang="pt">M6</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="TV Séries">
+    <display-name lang="en">TV Séries</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="TV5 Monde">
-    <display-name lang="pt">TV5 Monde</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">TV5 Monde</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="KBS">
-    <display-name lang="pt">KBS</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="TVCine">
+    <display-name lang="en">TVCine</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="RAI 1">
-    <display-name lang="pt">RAI 1</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="TVCine 2">
+    <display-name lang="en">TVCine 2</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="PRO TV International">
-    <display-name lang="pt">PRO TV International</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="TVCine 3">
+    <display-name lang="en">TVCine 3</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="Russia Today">
-    <display-name lang="pt">Russia Today</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="TVCine 4">
+    <display-name lang="en">TVCine 4</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="Russia Today Documentary">
-    <display-name lang="pt">Russia Today Documentary</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="TVE24H">
+    <display-name lang="en">TVE24H</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="Cubavision">
-    <display-name lang="pt">Cubavision</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="NHK WORLD TV">
-    <display-name lang="pt">NHK WORLD TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Kuriakos TV">
-    <display-name lang="pt">Kuriakos TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Arirang TV">
-    <display-name lang="pt">Arirang TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Eurochannel PT">
-    <display-name lang="pt">Eurochannel PT</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Eurochannel FR">
-    <display-name lang="pt">Eurochannel FR</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Touros">
-    <display-name lang="pt">Touros</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Caza &amp; Pesca">
-    <display-name lang="pt">Caza &amp; Pesca</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Caçavision HD">
-    <display-name lang="pt">Caçavision HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Caçavision">
-    <display-name lang="pt">Caçavision</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SET Ásia">
-    <display-name lang="pt">SET Ásia</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Star Plus">
-    <display-name lang="pt">Star Plus</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SET Max">
-    <display-name lang="pt">SET Max</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Star Gold">
-    <display-name lang="pt">Star Gold</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Nautical Channel">
-    <display-name lang="pt">Nautical Channel</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fightbox HD">
-    <display-name lang="pt">Fightbox HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="FastnFunbox HD">
-    <display-name lang="pt">FastnFunbox HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fight Network HD">
-    <display-name lang="pt">Fight Network HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fuel TV">
-    <display-name lang="pt">Fuel TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="DOGTV">
-    <display-name lang="pt">DOGTV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC HD">
-    <display-name lang="pt">SIC HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC Notícias HD">
-    <display-name lang="pt">SIC Notícias HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TV Globo Básico HD">
-    <display-name lang="pt">TV Globo Básico HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC Mulher HD">
-    <display-name lang="pt">SIC Mulher HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC Caras HD">
-    <display-name lang="pt">SIC Caras HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC Radical HD">
-    <display-name lang="pt">SIC Radical HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC K HD">
-    <display-name lang="pt">SIC K HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SPTV 4K">
-    <display-name lang="pt">SPTV 4K</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="RTP 1 HD">
-    <display-name lang="pt">RTP 1 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="RTP 2 HD">
-    <display-name lang="pt">RTP 2 HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="SIC H">
-    <display-name lang="pt">SIC H</display-name>
-    <url>http://www.vodafone.pt</url>
+  <channel id="TVEi">
+    <display-name lang="en">TVEi</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="TVI">
-    <display-name lang="pt">TVI</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">TVI</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="TVI Ficção">
+    <display-name lang="en">TVI Ficção</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="TVI24">
-    <display-name lang="pt">TVI24</display-name>
-    <url>http://www.vodafone.pt</url>
+    <display-name lang="en">TVI24</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
-  <channel id="RTP HD">
-    <display-name lang="pt">RTP HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
+  <programme start="20210103000000 +0000" stop="20210103020000 +0000" channel="Eleven Sports 1">
+    <title lang="en">Getafe x Valladolid - La Liga</title>
+    <desc lang="en">Assista ao jogo da LaLiga Santander entre Getafe x Valladolid.(n)</desc>
+  </programme>
+  <programme start="20210103020000 +0000" stop="20210103040000 +0000" channel="Eleven Sports 1">
+    <title lang="en">Stuttgart x Leipzig - Bundesliga</title>
+    <desc lang="en">Assista ao jogo do campeonato alemão de futebol entre Stuttgart x Leipzig.(n)</desc>
+  </programme>
+  <programme start="20210103040000 +0000" stop="20210103050000 +0000" channel="Eleven Sports 1">
+    <title lang="en">Bundesliga - Revista Da Temporada</title>
+    <desc lang="en">Bundesliga - Revista Da Temporada.(n)</desc>
+  </programme>
+  <programme start="20210103050000 +0000" stop="20210103060000 +0000" channel="Eleven Sports 1">
+    <title lang="en">UCL - Jogos Clássicos 14</title>
+    <desc lang="en">Cada época é definida por encontros memoráveis. Reveja os grandes jogos que fazem parte da história da Champions League.(n)</desc>
+  </programme>
+  <programme start="20210103060000 +0000" stop="20210103070000 +0000" channel="Eleven Sports 1">
+    <title lang="en">UCL - Jogos Clássicos 15</title>
+    <desc lang="en">Cada época é definida por encontros memoráveis. Reveja os grandes jogos que fazem parte da história da Champions League.(n)</desc>
+  </programme>
+  <programme start="20210103070000 +0000" stop="20210103073000 +0000" channel="Eleven Sports 1">
+    <title lang="en">Champions League Extra</title>
+    <desc lang="en">Fica por dentro de tudo o que envolve a maior competição mundial a nível de clubes. Champions League, um exclusivo Eleven Sports.(n)</desc>
+  </programme>
+  <programme start="20210103073000 +0000" stop="20210103080000 +0000" channel="Eleven Sports 1">
+    <title lang="en">A Short History Of UCL</title>
+    <desc lang="en">Recorde algumas finais históricas da Liga dos Campeões num programa especial que conta com entrevistas exclusivas às estrelas da prova milionária.(n)</desc>
+  </programme>
+  <programme start="20210103080000 +0000" stop="20210103090000 +0000" channel="Eleven Sports 1">
+    <title lang="en">UCL - O Filme Da Competição</title>
+    <desc lang="en">Recorda os momentos mais marcantes da UEFA Champions League que acabou com a coroação do Bayern de Munique em Lisboa.(n)</desc>
+  </programme>
+  <programme start="20210103090000 +0000" stop="20210103100000 +0000" channel="Eleven Sports 1">
+    <title lang="en">UEFA Champions League - Man In The Middle</title>
+    <desc lang="en">Nos tempos recentes o futebol é dominado por dois tópicos: VAR e COVID-19. “Man in the Middle” fala destes dois tópicos ao detalhe, do início da implementação do VAR em fevereiro de 2019 até à fase final da Champions League 2019/20. Conheça a perspetiva de 11 árbitros de 11 países diferentes que, tal como o VAR, investigam como lidar com a pressão, condição física, o lockdown e o que significa arbitrar a final da Champions League.(n)</desc>
+  </programme>
+  <programme start="20210103100000 +0000" stop="20210103103000 +0000" channel="Eleven Sports 1">
+    <title lang="en">Laliga - A Crônica RD 14</title>
+    <desc lang="en">Assista as melhores imagens da última jornada da LaLiga de uma perspectiva alternativa. Veja os golos e as jogadas que marcam a semana.(n)</desc>
+  </programme>
+  <programme start="20210103103000 +0000" stop="20210103123000 +0000" channel="Eleven Sports 1">
+    <title lang="en">Real Madrid x Celta - La Liga</title>
+    <desc lang="en">Assista ao jogo da LaLiga Santander entre Real Madrid x Celta.(n)</desc>
+  </programme>
+  <programme start="20210103123000 +0000" stop="20210103130000 +0000" channel="Eleven Sports 1">
+    <title lang="en">O Dérbi Mágico</title>
+    <desc lang="en">O Dérbi Mágico - Ep. 7.(n)</desc>
+  </programme>
+  <programme start="20210103130000 +0000" stop="20210103151500 +0000" channel="Eleven Sports 1">
+    <title lang="en">Athletic x Elche - La Liga (Direto)</title>
+    <desc lang="en">Assista ao jogo da LaLiga Santander entre Athletic x Elche.(n)</desc>
+  </programme>
+  <programme start="20210103151500 +0000" stop="20210103173000 +0000" channel="Eleven Sports 1">
+    <title lang="en">Alavés x Atlético - La Liga (Direto)</title>
+    <desc lang="en">Assista ao jogo da LaLiga Santander entre Alavés x Atlético.(n)</desc>
+  </programme>
+  <programme start="20210103173000 +0000" stop="20210103193000 +0000" channel="Eleven Sports 1">
+    <title lang="en">R. Sociedad x Osasuna - La Liga (Direto)</title>
+    <desc lang="en">Assista ao jogo da LaLiga Santander entre R. Sociedad x Osasuna.(n)</desc>
+  </programme>
+  <programme start="20210103193000 +0000" stop="20210103200000 +0000" channel="Eleven Sports 1">
+    <title lang="en">Laliga - Numa Bolha</title>
+    <desc lang="en">Laliga - Numa Bolha - Ep. 2.(n)</desc>
+  </programme>
+  <programme start="20210103200000 +0000" stop="20210103220000 +0000" channel="Eleven Sports 1">
+    <title lang="en">Huesca x Barcelona - La Liga (Direto)</title>
+    <desc lang="en">Assista ao jogo da LaLiga Santander entre Huesca x Barcelona.(n)</desc>
+  </programme>
+  <programme start="20210103220000 +0000" stop="20210104000000 +0000" channel="Eleven Sports 1">
+    <title lang="en">Bayern x Mainz- Bundesliga</title>
+    <desc lang="en">Assista ao jogo do campeonato alemão de futebol entre Bayern x Mainz.(n)</desc>
+  </programme>
+  <programme start="20210103000000 +0000" stop="20210103020000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Hertha x Schalke - Bundesliga</title>
+    <desc lang="en">Assista ao jogo do campeonato alemão de futebol entre Hertha x Schalke.(n)</desc>
+  </programme>
+  <programme start="20210103020000 +0000" stop="20210103040000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Real Madrid x Celta - La Liga</title>
+    <desc lang="en">Assista ao jogo da LaLiga Santander entre Real Madrid x Celta.(n)</desc>
+  </programme>
+  <programme start="20210103040000 +0000" stop="20210103043000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Ligue 1 Uber Eats - Revista da época</title>
+    <desc lang="en">Ligue 1 Uber Eats - Revista da época.(n)</desc>
+  </programme>
+  <programme start="20210103043000 +0000" stop="20210103050000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Bundesliga Special - Entrevista do mês</title>
+    <desc lang="en">Bundesliga Special - Entrevista do mês - Ep. 4.(n)</desc>
+  </programme>
+  <programme start="20210103050000 +0000" stop="20210103070000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Wolfsburg x Stuttgart - Bundesliga</title>
+    <desc lang="en">Assista ao jogo do campeonato alemão de futebol entre Wolfsburg x Stuttgart.(n)</desc>
+  </programme>
+  <programme start="20210103070000 +0000" stop="20210103090000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Bétis x Cádiz - La Liga</title>
+    <desc lang="en">Assista ao jogo da LaLiga Santander entre Bétis x Cádiz.(n)</desc>
+  </programme>
+  <programme start="20210103090000 +0000" stop="20210103110000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Montpellier x Lille - Ligue 1</title>
+    <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Montpellier x Lille.(n)</desc>
+  </programme>
+  <programme start="20210103110000 +0000" stop="20210103113000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Ligue 1 Uber Eats - Revista da época</title>
+    <desc lang="en">Ligue 1 Uber Eats - Revista da época.(n)</desc>
+  </programme>
+  <programme start="20210103113000 +0000" stop="20210103120000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Bundesliga Special - Entrevista do mês</title>
+    <desc lang="en">Bundesliga Special - Entrevista do mês - Ep. 4.(n)</desc>
+  </programme>
+  <programme start="20210103120000 +0000" stop="20210103123000 +0000" channel="Eleven Sports 2">
+    <title lang="en">LaLiga - Numa Bolha</title>
+    <desc lang="en">LaLiga - Numa Bolha - Ep. 2.(n)</desc>
+  </programme>
+  <programme start="20210103123000 +0000" stop="20210103143000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Kiel x Osnabrück - Bundesliga 2 (Direto)</title>
+    <desc lang="en">Assista ao jogo do campeonato da 2ª divisão alemã de futebol entre Kiel x Osnabrück.(n)</desc>
+  </programme>
+  <programme start="20210103143000 +0000" stop="20210103163000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Dortmund x Wolfsburg - Bundesliga (Direto)</title>
+    <desc lang="en">Assista ao jogo do campeonato alemão de futebol entre Dortmund x Wolfsburg.(n)</desc>
+  </programme>
+  <programme start="20210103163000 +0000" stop="20210103170000 +0000" channel="Eleven Sports 2">
+    <title lang="en">O Dérbi mágico</title>
+    <desc lang="en">O Dérbi mágico - Ep. 7.(n)</desc>
+  </programme>
+  <programme start="20210103170000 +0000" stop="20210103190000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Bayern x Mainz - Bundesliga (Direto)</title>
+    <desc lang="en">Assista ao jogo do campeonato alemão de futebol entre Bayern x Mainz.(n)</desc>
+  </programme>
+  <programme start="20210103190000 +0000" stop="20210103193000 +0000" channel="Eleven Sports 2">
+    <title lang="en">O Dérbi mágico</title>
+    <desc lang="en">O Dérbi mágico - Ep. 7.(n)</desc>
+  </programme>
+  <programme start="20210103193000 +0000" stop="20210103213000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Almería x Ponferradina - LaLiga Smartbank (Direto)</title>
+    <desc lang="en">Assista ao jogo da LaLiga Smartbank entre Sporting Gijon x Logronés.(n)</desc>
+  </programme>
+  <programme start="20210103213000 +0000" stop="20210103220000 +0000" channel="Eleven Sports 2">
+    <title lang="en">O sonho americano Basco</title>
+    <desc lang="en">O sonho americano Basco - Ep. 2.(n)</desc>
+  </programme>
+  <programme start="20210103220000 +0000" stop="20210104000000 +0000" channel="Eleven Sports 2">
+    <title lang="en">Alavés x Atlético - La Liga</title>
+    <desc lang="en">Assista ao jogo da LaLiga Santander entre Alavés x Atlético.(n)</desc>
+  </programme>
+  <programme start="20210103010000 +0000" stop="20210103013000 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: F2, Chasing the Dream</title>
+    <desc lang="en">No calor do deserto, 20 pilotos competem por uma oportunidade na F1, com especial enfoque para Mick Schumacher, Jack Aitken, Nicholas Latifi e Luca Ghiotto.(n)</desc>
+  </programme>
+  <programme start="20210103013000 +0000" stop="20210103023000 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: Goodwood Speedweek 2020, First Glance</title>
+    <desc lang="en">Automobilismo: Goodwood Speedweek 2020, First Glance.(n)</desc>
+  </programme>
+  <programme start="20210103023000 +0000" stop="20210103050000 +0000" channel="Eleven Sports 3">
+    <title lang="en">Sem Emissão</title>
+    <desc lang="en">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210103050000 +0000" stop="20210103100000 +0000" channel="Eleven Sports 3">
+    <title lang="en">Sem Emissão</title>
+    <desc lang="en">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210103100000 +0000" stop="20210103120000 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: Resumo F1 GP Abu Dhabi</title>
+    <desc lang="en">Reveja os melhores momentos do GP de Abu Dhabi de 2020.(n)</desc>
+  </programme>
+  <programme start="20210103120000 +0000" stop="20210103124500 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: GTWC America Road America RD 7/8 Highlights</title>
+    <desc lang="en">Acompanhe os melhores momentos da temporada do GTWC America, com passagens por circuitos icónicos como COTA, Road America ou Indianapolis.(n)</desc>
+  </programme>
+  <programme start="20210103124500 +0000" stop="20210103133000 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: GTWC America Circuit of the Americas RD 9/10 Highlights</title>
+    <desc lang="en">Acompanhe os melhores momentos da temporada do GTWC America, com passagens por circuitos icónicos como COTA, Road America ou Indianapolis.(n)</desc>
+  </programme>
+  <programme start="20210103133000 +0000" stop="20210103141500 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: GTWC America Indianopolis 8hour RD 11</title>
+    <desc lang="en">Acompanhe os melhores momentos da temporada do GTWC America, com passagens por circuitos icónicos como COTA, Road America ou Indianapolis.(n)</desc>
+  </programme>
+  <programme start="20210103141500 +0000" stop="20210103144500 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: Fora de Estrada</title>
+    <desc lang="en">A derradeira edição de Fora de Estrada deste ano de 2020 arranca com a entrega de prémios da Taça Yamaha.Damos de seguida continuidade à apresentação do Rally Dakar 2021 que pelo segundo ano se vai disputar na Arábia Saudita e terminamos com a reportagem da Baja Hail Toyota derradeira etapa da Taça do Mundo que contou com a participação de Lourenço Rosa.(n)</desc>
+  </programme>
+  <programme start="20210103144500 +0000" stop="20210103151500 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: Inside World TCR</title>
+    <desc lang="en">Disciplina multimarca para carros de turismo com as regras TCR, campeonato que está presente em mais de 30 países.(n)</desc>
+  </programme>
+  <programme start="20210103151500 +0000" stop="20210103173000 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: Resumo F1 GP Abu Dhabi</title>
+    <desc lang="en">Reveja os melhores momentos do GP de Abu Dhabi de 2020.(n)</desc>
+  </programme>
+  <programme start="20210103173000 +0000" stop="20210103193000 +0000" channel="Eleven Sports 3">
+    <title lang="en">Eibar x Granada - LaLiga (Direto)</title>
+    <desc lang="en">Assista ao jogo da LaLiga entre Eibar x Granada.(n)</desc>
+  </programme>
+  <programme start="20210103193000 +0000" stop="20210103200000 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: GP Confidential</title>
+    <desc lang="en">Conheça as histórias das principais figuras da Formula 1. Com entrevistas exclusivas e imagens inéditas da maior competição motorizada do mundo.(n)</desc>
+  </programme>
+  <programme start="20210103200000 +0000" stop="20210103210000 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: Goodwood Speedweek 2020, First Glance</title>
+    <desc lang="en">Automobilismo: Goodwood Speedweek 2020, First Glance.(n)</desc>
+  </programme>
+  <programme start="20210103210000 +0000" stop="20210103212500 +0000" channel="Eleven Sports 3">
+    <title lang="en">Automobilismo: Os melhores On Boards - Abu Dhabi</title>
+    <desc lang="en">As lutas e as ultrapassagens vistas do monocoque.(n)</desc>
+  </programme>
+  <programme start="20210103010000 +0000" stop="20210103050000 +0000" channel="Eleven Sports 4">
+    <title lang="en">Sem Emissão</title>
+    <desc lang="en">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210103050000 +0000" stop="20210103090000 +0000" channel="Eleven Sports 4">
+    <title lang="en">Sem Emissão</title>
+    <desc lang="en">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210103090000 +0000" stop="20210103130000 +0000" channel="Eleven Sports 4">
+    <title lang="en">Sem Emissão</title>
+    <desc lang="en">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210103130000 +0000" stop="20210103173000 +0000" channel="Eleven Sports 4">
+    <title lang="en">Sem Emissão</title>
+    <desc lang="en">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210103173000 +0000" stop="20210103193000 +0000" channel="Eleven Sports 4">
+    <title lang="en">Basquetebol: Fuenlabrada x Barça - Liga Endesa (Direto)</title>
+    <desc lang="en">Os melhores jogos da Liga espanhola de basquetebol, uma das mais competitivas do mundo.(n)</desc>
+  </programme>
+  <programme start="20210103193000 +0000" stop="20210103210000 +0000" channel="Eleven Sports 4">
+    <title lang="en">Sem Emissão</title>
+    <desc lang="en">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210103000000 +0000" stop="20210103020000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103020000 +0000" stop="20210103040000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103040000 +0000" stop="20210103060000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103060000 +0000" stop="20210103080000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103080000 +0000" stop="20210103100000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103100000 +0000" stop="20210103120000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103120000 +0000" stop="20210103140000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103140000 +0000" stop="20210103160000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103160000 +0000" stop="20210103180000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103180000 +0000" stop="20210103200000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103200000 +0000" stop="20210103220000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103220000 +0000" stop="20210104000000 +0000" channel="Eleven Sports 5">
+    <title lang="en">Eleven 5</title>
+  </programme>
+  <programme start="20210103000000 +0000" stop="20210103020000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103020000 +0000" stop="20210103040000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103040000 +0000" stop="20210103060000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103060000 +0000" stop="20210103080000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103080000 +0000" stop="20210103100000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103100000 +0000" stop="20210103120000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103120000 +0000" stop="20210103140000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103140000 +0000" stop="20210103160000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103160000 +0000" stop="20210103180000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103180000 +0000" stop="20210103200000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103200000 +0000" stop="20210103220000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103220000 +0000" stop="20210104000000 +0000" channel="Eleven Sports 6">
+    <title lang="en">Eleven 6</title>
+  </programme>
+  <programme start="20210103003000 +0000" stop="20210103020000 +0000" channel="Eurosport">
+    <title lang="en">Ciclismo: World Tour, Gent - Wevelgem</title>
+    <desc lang="en">Ciclismo: World Tour, Gent - Wevelgem.(n)</desc>
+  </programme>
+  <programme start="20210103020000 +0000" stop="20210103040000 +0000" channel="Eurosport">
+    <title lang="en">Snooker: World Grand Prix</title>
+    <desc lang="en">Final.(n)</desc>
+  </programme>
+  <programme start="20210103040000 +0000" stop="20210103060000 +0000" channel="Eurosport">
+    <title lang="en">Ciclismo: Volta a Flandres</title>
+    <desc lang="en">Homens.(n)</desc>
+  </programme>
+  <programme start="20210103060000 +0000" stop="20210103073000 +0000" channel="Eurosport">
+    <title lang="en">Snooker: World Grand Prix</title>
+    <desc lang="en">Final.(n)</desc>
+  </programme>
+  <programme start="20210103073000 +0000" stop="20210103080000 +0000" channel="Eurosport">
+    <title lang="en">Rally: Dakar, Arábia Saudita</title>
+    <desc lang="en">Antevisão.(n)</desc>
+  </programme>
+  <programme start="20210103080000 +0000" stop="20210103083500 +0000" channel="Eurosport">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck.(n)</desc>
+  </programme>
+  <programme start="20210103083500 +0000" stop="20210103092500 +0000" channel="Eurosport">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">10km femininos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103092500 +0000" stop="20210103102500 +0000" channel="Eurosport">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">10km femininos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103102500 +0000" stop="20210103112000 +0000" channel="Eurosport">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair (Direto)</title>
+    <desc lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair (Direto).(n)</desc>
+  </programme>
+  <programme start="20210103112000 +0000" stop="20210103122500 +0000" channel="Eurosport">
+    <title lang="en">Esqui Alpino: Taça Mundo, Zagreb (Direto)</title>
+    <desc lang="en">Slalom feminino, 1ª manga.(n)</desc>
+  </programme>
+  <programme start="20210103122500 +0000" stop="20210103141500 +0000" channel="Eurosport">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck (Direto)</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck (Direto).(n)</desc>
+  </programme>
+  <programme start="20210103141500 +0000" stop="20210103145500 +0000" channel="Eurosport">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair (Direto)</title>
+    <desc lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair (Direto).(n)</desc>
+  </programme>
+  <programme start="20210103145500 +0000" stop="20210103160000 +0000" channel="Eurosport">
+    <title lang="en">Esqui Alpino: Taça Mundo, Zagreb (Direto)</title>
+    <desc lang="en">Slalom feminino, 1ª manga.(n)</desc>
+  </programme>
+  <programme start="20210103160000 +0000" stop="20210103165500 +0000" channel="Eurosport">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck.(n)</desc>
+  </programme>
+  <programme start="20210103165500 +0000" stop="20210103170000 +0000" channel="Eurosport">
+    <title lang="en">Eurosport 2 News</title>
+    <desc lang="en">Eurosport 2 News.(n)</desc>
+  </programme>
+  <programme start="20210103170000 +0000" stop="20210103175000 +0000" channel="Eurosport">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">10km femininos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103175000 +0000" stop="20210103183000 +0000" channel="Eurosport">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">10km femininos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103183000 +0000" stop="20210103194500 +0000" channel="Eurosport">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck.(n)</desc>
+  </programme>
+  <programme start="20210103194500 +0000" stop="20210103195000 +0000" channel="Eurosport">
+    <title lang="en">Eurosport 2 News</title>
+    <desc lang="en">Eurosport 2 News.(n)</desc>
+  </programme>
+  <programme start="20210103195000 +0000" stop="20210103201500 +0000" channel="Eurosport">
+    <title lang="en">Esqui Alpino: Taça Mundo, Zagreb - Sl. fem., 1ª manga</title>
+    <desc lang="en">Slalom feminino, 1ª manga.(n)</desc>
+  </programme>
+  <programme start="20210103201500 +0000" stop="20210103210000 +0000" channel="Eurosport">
+    <title lang="en">Esqui Alpino: Taça Mundo, Zagreb - Sl. fem., 2ª manga</title>
+    <desc lang="en">Slalom feminino, 2ª manga.(n)</desc>
+  </programme>
+  <programme start="20210103210000 +0000" stop="20210103220000 +0000" channel="Eurosport">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck.(n)</desc>
+  </programme>
+  <programme start="20210103220000 +0000" stop="20210103223000 +0000" channel="Eurosport">
+    <title lang="en">Rally: Dakar</title>
+    <desc lang="en">Etapa 1.(n)</desc>
+  </programme>
+  <programme start="20210103223000 +0000" stop="20210103230000 +0000" channel="Eurosport">
+    <title lang="en">Jogos Olímpicos: Anatomy Of</title>
+    <desc lang="en">Jogos Olímpicos: Anatomy Of.(n)</desc>
+  </programme>
+  <programme start="20210103230000 +0000" stop="20210103233000 +0000" channel="Eurosport">
+    <title lang="en">Jogos Olímpicos: Anatomy Of</title>
+    <desc lang="en">Jogos Olímpicos: Anatomy Of.(n)</desc>
+  </programme>
+  <programme start="20210103233000 +0000" stop="20210104000000 +0000" channel="Eurosport">
+    <title lang="en">Jogos Olímpicos: Anatomy Of</title>
+    <desc lang="en">Jogos Olímpicos: Anatomy Of.(n)</desc>
+  </programme>
+  <programme start="20210103001500 +0000" stop="20210103010000 +0000" channel="Eurosport 2">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">15km masculinos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103010000 +0000" stop="20210103020000 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee.(n)</desc>
+  </programme>
+  <programme start="20210103020000 +0000" stop="20210103030000 +0000" channel="Eurosport 2">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Garmisch Partenkirchen</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Garmisch Partenkirchen.(n)</desc>
+  </programme>
+  <programme start="20210103030000 +0000" stop="20210103040000 +0000" channel="Eurosport 2">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck.(n)</desc>
+  </programme>
+  <programme start="20210103040000 +0000" stop="20210103044500 +0000" channel="Eurosport 2">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">15km masculinos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103044500 +0000" stop="20210103053000 +0000" channel="Eurosport 2">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">15km masculinos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103053000 +0000" stop="20210103063000 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee.(n)</desc>
+  </programme>
+  <programme start="20210103063000 +0000" stop="20210103072500 +0000" channel="Eurosport 2">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck.(n)</desc>
+  </programme>
+  <programme start="20210103072500 +0000" stop="20210103081500 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee.(n)</desc>
+  </programme>
+  <programme start="20210103081500 +0000" stop="20210103092000 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee (Direto)</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee (Direto).(n)</desc>
+  </programme>
+  <programme start="20210103092000 +0000" stop="20210103094000 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee.(n)</desc>
+  </programme>
+  <programme start="20210103094000 +0000" stop="20210103104500 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee (Direto)</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee (Direto).(n)</desc>
+  </programme>
+  <programme start="20210103104500 +0000" stop="20210103113500 +0000" channel="Eurosport 2">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck.(n)</desc>
+  </programme>
+  <programme start="20210103113500 +0000" stop="20210103124500 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee (Direto)</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee (Direto).(n)</desc>
+  </programme>
+  <programme start="20210103124500 +0000" stop="20210103131500 +0000" channel="Eurosport 2">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">15km masculinos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103131500 +0000" stop="20210103140000 +0000" channel="Eurosport 2">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">15km masculinos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103140000 +0000" stop="20210103144500 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee.(n)</desc>
+  </programme>
+  <programme start="20210103144500 +0000" stop="20210103153000 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee.(n)</desc>
+  </programme>
+  <programme start="20210103153000 +0000" stop="20210103173000 +0000" channel="Eurosport 2">
+    <title lang="en">Snooker: World Grand Prix</title>
+    <desc lang="en">Final.(n)</desc>
+  </programme>
+  <programme start="20210103173000 +0000" stop="20210103182500 +0000" channel="Eurosport 2">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck.(n)</desc>
+  </programme>
+  <programme start="20210103182500 +0000" stop="20210103183000 +0000" channel="Eurosport 2">
+    <title lang="en">Eurosport 2 News</title>
+    <desc lang="en">Eurosport 2 News.(n)</desc>
+  </programme>
+  <programme start="20210103183000 +0000" stop="20210103190000 +0000" channel="Eurosport 2">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">15km masculinos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103190000 +0000" stop="20210103193000 +0000" channel="Eurosport 2">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">15km masculinos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103193000 +0000" stop="20210103201500 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee.(n)</desc>
+  </programme>
+  <programme start="20210103201500 +0000" stop="20210103210000 +0000" channel="Eurosport 2">
+    <title lang="en">Luge: Taça Mundo, Koenigsee</title>
+    <desc lang="en">Luge: Taça Mundo, Koenigsee.(n)</desc>
+  </programme>
+  <programme start="20210103210000 +0000" stop="20210103223000 +0000" channel="Eurosport 2">
+    <title lang="en">Ciclismo: Volta a Flandres</title>
+    <desc lang="en">Homens.(n)</desc>
+  </programme>
+  <programme start="20210103223000 +0000" stop="20210103223500 +0000" channel="Eurosport 2">
+    <title lang="en">Eurosport 2 News</title>
+    <desc lang="en">Eurosport 2 News.(n)</desc>
+  </programme>
+  <programme start="20210103223500 +0000" stop="20210103233000 +0000" channel="Eurosport 2">
+    <title lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck</title>
+    <desc lang="en">Saltos Esqui: Taça Mundo - Torneio 4 Trampolins, Innsbruck.(n)</desc>
+  </programme>
+  <programme start="20210103233000 +0000" stop="20210104000000 +0000" channel="Eurosport 2">
+    <title lang="en">Esqui De Fundo: Taça Mundo - Torneio Esqui, Val Mustair</title>
+    <desc lang="en">15km masculinos clássico, partida em massa.(n)</desc>
+  </programme>
+  <programme start="20210103011600 +0000" stop="20210103011900 +0000" channel="FOX">
+    <title lang="en">Cenas de Família</title>
+    <desc lang="en">Rui recebe uma supressa em direto numa radio local que jamais esquecerá. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103011900 +0000" stop="20210103025300 +0000" channel="FOX">
+    <title lang="en">Blitz - Sem Remorsos</title>
+    <desc lang="en">Um detetive da polícia, conhecido por recorrer a métodos pouco ortodoxos e violentos, tem como missão apanhar um assassino em série que anda a atacar membros da polícia. Classificação etária: M/16.(n)</desc>
+  </programme>
+  <programme start="20210103025300 +0000" stop="20210103033400 +0000" channel="FOX">
+    <title lang="en">Magnum P.I.</title>
+    <desc lang="en">TC pede a Magnum para aceitar o caso de defesa do pai de um dos seus jovens jogadores de futebol que está acusado de homicídio. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103033400 +0000" stop="20210103041600 +0000" channel="FOX">
+    <title lang="en">Magnum P.I.</title>
+    <desc lang="en">Um magnata idoso, Henry Brown, pede a Magnum para encontrar o seu amor perdido, que ele diz que o contactou recentemente. O único problema é que ela morreu há trinta anos atrás. E ainda, Rick e TC conhecem outro veterano que está a ter dificuldades em adaptar-se à vida de civil. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103041600 +0000" stop="20210103045600 +0000" channel="FOX">
+    <title lang="en">Magnum P.I.</title>
+    <desc lang="en">Magnum trabalha no caso do gato desaparecido de uma menina e, entretanto, tropeça no caso do dono assassinado de um gato que era agente do FBI. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103045600 +0000" stop="20210103053400 +0000" channel="FOX">
+    <title lang="en">Magnum P.I.</title>
+    <desc lang="en">Um homem com linfoma em estado terminal contrata Magnum para encontrar um irmão seu que é dador compatível de medula óssea e que também precisa da ajuda de Magnum. E ainda, o caso de Magnum traz más memórias aos rapazes de uma missão SEAL que correu mal. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103053400 +0000" stop="20210103061500 +0000" channel="FOX">
+    <title lang="en">Magnum P.I.</title>
+    <desc lang="en">Após uma vítima de rapto, Amanda, de 16 anos, escapar aos raptores, os seus pais contratam Magnum, que também passou por um trauma semelhante como prisioneiro de guerra, para encontrar quem a raptou. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103061500 +0000" stop="20210103065700 +0000" channel="FOX">
+    <title lang="en">Investigação Criminal: Los Angeles</title>
+    <desc lang="en">A agente Talia Del Campo pede ajuda à NCIS após o assassinato do seu companheiro. Entretanto, Kensi suspeita que Deeks está a esconder alguma coisa, mas ele surpreende-a ao apresentá-la à sua mãe. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103065700 +0000" stop="20210103074000 +0000" channel="FOX">
+    <title lang="en">Investigação Criminal: Los Angeles</title>
+    <desc lang="en">A equipa NCIS Los Angeles investiga um massacre peruano com 20 anos após uma modelo famosa, uma das sobreviventes, ser agora um alvo potencial. E ainda, Kensi vai disfarçada de assistente da modelo e Deeks do seu chauffeur. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103074000 +0000" stop="20210103082400 +0000" channel="FOX">
+    <title lang="en">Investigação Criminal: Los Angeles</title>
+    <desc lang="en">Callen e Sam são forçados a trabalhar na sua folga quando recebem uma chamada misteriosa de um homem a ameaçar a vida de pessoas inocentes caso eles não façam exatamente o que ele manda. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103082400 +0000" stop="20210103090600 +0000" channel="FOX">
+    <title lang="en">Investigação Criminal: Los Angeles</title>
+    <desc lang="en">O agente especial NCIS DiNozzo colabora com a NCIS: A equipa Los Angeles faz uma busca pela cidade após um prisioneiro escapar num voo de Singapura para Los Angeles. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103090600 +0000" stop="20210103095000 +0000" channel="FOX">
+    <title lang="en">Investigação Criminal: Los Angeles</title>
+    <desc lang="en">A equipa procura pelo antigo parceiro de Sam, Ruiz, que desaparece após comprar um explosivo mortífero durante uma operação secreta. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103095000 +0000" stop="20210103103500 +0000" channel="FOX">
+    <title lang="en">Investigação Criminal: Los Angeles</title>
+    <desc lang="en">Kensi e Deeks disfarçam-se de membros de uma seita para resgatar um antigo colaborador do Departamento de Defesa que sofreu uma lavagem ao cérebro para revelar informação classificada e o resto da equipa trabalha para impedir que o culto venda os segredos do governo. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103103500 +0000" stop="20210103121700 +0000" channel="FOX">
+    <title lang="en">Cantar!</title>
+    <desc lang="en">Matthew McConaughey empresta a voz a esta comédia de animação da Illumination Entertainment, a equipa criativa por detrás de Gru: O Maldisposto. 'Sing' conta a história de um koala que decide organizar um concurso de canto para atrair mais clientes ao seu teatro. Classificação etária: M/6.(n)</desc>
+  </programme>
+  <programme start="20210103121700 +0000" stop="20210103135100 +0000" channel="FOX">
+    <title lang="en">Megamind</title>
+    <desc lang="en">O supervilão Megamind derrota finalmente o seu arqui-inimigo, o super-herói Metro Man. Contudo, sem um herói, ele perde todo o seu propósito e tem de encontrar um novo sentido para a vida. Classificação etária: M/6.(n)</desc>
+  </programme>
+  <programme start="20210103135100 +0000" stop="20210103153600 +0000" channel="FOX">
+    <title lang="en">Point Break - Caçadores de Emoções</title>
+    <desc lang="en">Um jovem agente do FBI, Johnny Utah (Luke Bracey), infiltra-se numa equipa de astutos atletas de elite em busca de emoção, liderada pelo carismático Bodhi ( Edgar Ramirez) . Os atletas são suspeitos de levar a cabo uma série de crimes de maneiras extremamente incomuns. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103153600 +0000" stop="20210103173100 +0000" channel="FOX">
+    <title lang="en">Mestres Da Ilusão</title>
+    <desc lang="en">Um grupo de quatro mágicos norte-americanos, liderados pelo carismático Michael Atlas, apresenta um espetáculo de magia nunca antes visto: primeiro surpreendem a audiência ao roubar, em tempo real, um banco em França e, em seguida, dividem os lucros pelas contas bancarias de cada um dos espectadores. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103173100 +0000" stop="20210103190300 +0000" channel="FOX">
+    <title lang="en">Hora De Ponta 3</title>
+    <desc lang="en">No coração de Paris, esconde-se um segredo mortal. Do outro lado do mundo, em Los Angeles, o Embaixador Han está prestes a revelá-lo. Na sua posse encontram-se novas provas sobre o trabalho no submundo das Tríades, o mais poderoso e notório sindicato do crime em todo o mundo. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103190300 +0000" stop="20210103212000 +0000" channel="FOX">
+    <title lang="en">Batman - O Início</title>
+    <desc lang="en">Após treinar com o seu mentor, Batman começa a sua luta para libertar da corrupção uma Gotham City assolada pelo crime. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103212000 +0000" stop="20210103235500 +0000" channel="FOX">
+    <title lang="en">O Cavaleiro Das Trevas</title>
+    <desc lang="en">Quando a ameaça conhecida como Joker volta do seu passado misterioso, causa a destruição e o caos sobre a população de Gotham. O Cavaleiro das Trevas tem de aceitar um dos maiores testes psicológicos e físicos à sua capacidade para combater a injustiça. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103235500 +0000" stop="20210103235800 +0000" channel="FOX">
+    <title lang="en">Cenas de Família</title>
+    <desc lang="en">Rui recebe uma supressa em direto numa radio local que jamais esquecerá. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103003900 +0000" stop="20210103004200 +0000" channel="FOX Comedy">
+    <title lang="en">Cenas de Família</title>
+  </programme>
+  <programme start="20210103004200 +0000" stop="20210103010200 +0000" channel="FOX Comedy">
+    <title lang="en">Two Broke Girls</title>
+  </programme>
+  <programme start="20210103010200 +0000" stop="20210103012400 +0000" channel="FOX Comedy">
+    <title lang="en">Two Broke Girls</title>
+  </programme>
+  <programme start="20210103012400 +0000" stop="20210103014600 +0000" channel="FOX Comedy">
+    <title lang="en">Two Broke Girls</title>
+  </programme>
+  <programme start="20210103014600 +0000" stop="20210103020600 +0000" channel="FOX Comedy">
+    <title lang="en">Two Broke Girls</title>
+  </programme>
+  <programme start="20210103020600 +0000" stop="20210103022600 +0000" channel="FOX Comedy">
+    <title lang="en">Two Broke Girls</title>
+  </programme>
+  <programme start="20210103022600 +0000" stop="20210103024600 +0000" channel="FOX Comedy">
+    <title lang="en">Two Broke Girls</title>
+  </programme>
+  <programme start="20210103024600 +0000" stop="20210103030700 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103030700 +0000" stop="20210103032800 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103032800 +0000" stop="20210103034800 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103034800 +0000" stop="20210103040900 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103040900 +0000" stop="20210103042900 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103042900 +0000" stop="20210103045000 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103045000 +0000" stop="20210103051000 +0000" channel="FOX Comedy">
+    <title lang="en">Black-ish</title>
+  </programme>
+  <programme start="20210103051000 +0000" stop="20210103053100 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103053100 +0000" stop="20210103055100 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103055100 +0000" stop="20210103061100 +0000" channel="FOX Comedy">
+    <title lang="en">Superstore</title>
+  </programme>
+  <programme start="20210103061100 +0000" stop="20210103063300 +0000" channel="FOX Comedy">
+    <title lang="en">Mom</title>
+  </programme>
+  <programme start="20210103063300 +0000" stop="20210103065400 +0000" channel="FOX Comedy">
+    <title lang="en">Mom</title>
+  </programme>
+  <programme start="20210103065400 +0000" stop="20210103071500 +0000" channel="FOX Comedy">
+    <title lang="en">Mom</title>
+  </programme>
+  <programme start="20210103071500 +0000" stop="20210103073600 +0000" channel="FOX Comedy">
+    <title lang="en">Black-ish</title>
+  </programme>
+  <programme start="20210103073600 +0000" stop="20210103075600 +0000" channel="FOX Comedy">
+    <title lang="en">Black-ish</title>
+  </programme>
+  <programme start="20210103075600 +0000" stop="20210103081700 +0000" channel="FOX Comedy">
+    <title lang="en">Black-ish</title>
+  </programme>
+  <programme start="20210103081700 +0000" stop="20210103083800 +0000" channel="FOX Comedy">
+    <title lang="en">Black-ish</title>
+  </programme>
+  <programme start="20210103083800 +0000" stop="20210103085800 +0000" channel="FOX Comedy">
+    <title lang="en">Black-ish</title>
+  </programme>
+  <programme start="20210103085800 +0000" stop="20210103091900 +0000" channel="FOX Comedy">
+    <title lang="en">American Dad</title>
+  </programme>
+  <programme start="20210103091900 +0000" stop="20210103093900 +0000" channel="FOX Comedy">
+    <title lang="en">American Dad</title>
+  </programme>
+  <programme start="20210103093900 +0000" stop="20210103100100 +0000" channel="FOX Comedy">
+    <title lang="en">American Dad</title>
+  </programme>
+  <programme start="20210103100100 +0000" stop="20210103102300 +0000" channel="FOX Comedy">
+    <title lang="en">American Dad</title>
+  </programme>
+  <programme start="20210103102300 +0000" stop="20210103104300 +0000" channel="FOX Comedy">
+    <title lang="en">American Dad</title>
+  </programme>
+  <programme start="20210103104300 +0000" stop="20210103110600 +0000" channel="FOX Comedy">
+    <title lang="en">American Dad</title>
+  </programme>
+  <programme start="20210103110600 +0000" stop="20210103112800 +0000" channel="FOX Comedy">
+    <title lang="en">American Dad</title>
+  </programme>
+  <programme start="20210103112800 +0000" stop="20210103115000 +0000" channel="FOX Comedy">
+    <title lang="en">American Dad</title>
+  </programme>
+  <programme start="20210103115000 +0000" stop="20210103121300 +0000" channel="FOX Comedy">
+    <title lang="en">American Dad</title>
+  </programme>
+  <programme start="20210103121300 +0000" stop="20210103123600 +0000" channel="FOX Comedy">
+    <title lang="en">American Dad</title>
+  </programme>
+  <programme start="20210103123600 +0000" stop="20210103125600 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103125600 +0000" stop="20210103131800 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103131800 +0000" stop="20210103134000 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103134000 +0000" stop="20210103140200 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103140200 +0000" stop="20210103142500 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103142500 +0000" stop="20210103144500 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103144500 +0000" stop="20210103150700 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103150700 +0000" stop="20210103152700 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103152700 +0000" stop="20210103154900 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103154900 +0000" stop="20210103161100 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103161100 +0000" stop="20210103163300 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103163300 +0000" stop="20210103165400 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103165400 +0000" stop="20210103171600 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103171600 +0000" stop="20210103173700 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103173700 +0000" stop="20210103175900 +0000" channel="FOX Comedy">
+    <title lang="en">Family Guy</title>
+  </programme>
+  <programme start="20210103175900 +0000" stop="20210103181900 +0000" channel="FOX Comedy">
+    <title lang="en">Black-ish</title>
+  </programme>
+  <programme start="20210103181900 +0000" stop="20210103184200 +0000" channel="FOX Comedy">
+    <title lang="en">Black-ish</title>
+  </programme>
+  <programme start="20210103184200 +0000" stop="20210103190500 +0000" channel="FOX Comedy">
+    <title lang="en">Black-ish</title>
+  </programme>
+  <programme start="20210103190500 +0000" stop="20210103192600 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103192600 +0000" stop="20210103194800 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103194800 +0000" stop="20210103201100 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103201100 +0000" stop="20210103203400 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103203400 +0000" stop="20210103205700 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103205700 +0000" stop="20210103212000 +0000" channel="FOX Comedy">
+    <title lang="en">Um Homem Entre Mulheres</title>
+  </programme>
+  <programme start="20210103212000 +0000" stop="20210103225600 +0000" channel="FOX Comedy">
+    <title lang="en">A Glória Dos Campeões</title>
+  </programme>
+  <programme start="20210103225600 +0000" stop="20210103230000 +0000" channel="FOX Comedy">
+    <title lang="en">Cenas de Família</title>
+  </programme>
+  <programme start="20210103001000 +0000" stop="20210103005100 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Uma poderosa consultora de negócios é morta durante uma festa de rua e o motivo parece estar relacionado com uma pen sua que se encontrava em parte incerta e que contém informação incriminatória contra algumas das pessoas mais influentes de Nova Iorque. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103005100 +0000" stop="20210103013300 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Enquanto a CSI investiga a morte de um arqueólogo famoso, a vida de Stella é ameaçada devido à possível descoberta por parte do arqueólogo de uma moeda rara da Grécia Antiga. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103013300 +0000" stop="20210103021700 +0000" channel="FOX Crime">
+    <title lang="en">Mallorca Files</title>
+    <desc lang="en">A Inspetora-chefe Miranda Blake está em Maiorca para acompanhar um criminoso conhecido de volta ao Reino Unido. Quando as coisas correm mal ela realiza a sua própria investigação, trabalhando contra vontade com o detetive alemão espirituoso Max Winter. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103021700 +0000" stop="20210103030100 +0000" channel="FOX Crime">
+    <title lang="en">Mallorca Files</title>
+    <desc lang="en">Quando o ciclista de topo Esteban Domenech desaparece em Maiorca durante um treino, Miranda e Max aproveitam a ausência de Ines para investigar. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103030100 +0000" stop="20210103034400 +0000" channel="FOX Crime">
+    <title lang="en">Mallorca Files</title>
+    <desc lang="en">Miranda e Max entram no mundo dos oligarcas russos quando a famosa imagem de São Nicolau é roubada por um assaltante encapuzado aos olhos de uma multidão incrédula. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103034400 +0000" stop="20210103042800 +0000" channel="FOX Crime">
+    <title lang="en">Mallorca Files</title>
+    <desc lang="en">Quando uma modelo desaparece, Max e Miranda entram no mundo da moda e do design para tentar descobrir como é que alguém pode desaparecer de um comboio em movimento. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103042800 +0000" stop="20210103051200 +0000" channel="FOX Crime">
+    <title lang="en">Mallorca Files</title>
+    <desc lang="en">Miranda e Max viajam até à região vinícola para investigar a morte de um cão numa das vinhas mais famosas de Maiorca, naquela que é mais uma da série de ameaças cada vez mais dramáticas de que é alvo o proprietário Max Webber. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103051200 +0000" stop="20210103064300 +0000" channel="FOX Crime">
+    <title lang="en">Hinterland</title>
+    <desc lang="en">A primeira temporada de Hinterland chegou ao fim com o futuro do Inspetor-chefe Tom Mathias em risco. Agora, semanas mais tarde, o nosso detetive perturbado é forçado a voltar à linha da frente quando um fogo posto numa quinta isolada deixa mãe e filho pequeno a lutar pela vida. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103064300 +0000" stop="20210103072900 +0000" channel="FOX Crime">
+    <title lang="en">Rosemary &amp; Thyme</title>
+    <desc lang="en">Rosemary e Laura trabalham na replantação do histórico jardim de Regent Park, um espaço repleto de flores coloridas e de visitantes habituais. Contudo, escondidos entre os frequentadores habituais do parque estão muitos segredos que brevemente serão revelados. Todos eles estão misteriosamente ligados a um cão de três pernas. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103072900 +0000" stop="20210103081500 +0000" channel="FOX Crime">
+    <title lang="en">Rosemary &amp; Thyme</title>
+    <desc lang="en">Enquanto trabalhavam num jardim de cemitério, as duas amigas descobrem o corpo de um artista famoso e mulherengo e um bebé abandonado. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103081500 +0000" stop="20210103085900 +0000" channel="FOX Crime">
+    <title lang="en">Mallorca Files</title>
+    <desc lang="en">Um futuro noivo é encontrado morto na piscina de uma moradia de luxo. Miranda e Max suspeitam que a responsável poderá ser uma prostituta que deixa os seus clientes inconscientes e depois os rouba. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103085900 +0000" stop="20210103094300 +0000" channel="FOX Crime">
+    <title lang="en">Mallorca Files</title>
+    <desc lang="en">Miranda e Max investigam a morte de um DJ mundialmente famoso depois de ele tocar no clube noturno mais popular de Maiorca, o que os leva a investigar uma rede de drogas sofisticadas. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103094300 +0000" stop="20210103103000 +0000" channel="FOX Crime">
+    <title lang="en">Mallorca Files</title>
+    <desc lang="en">O homicídio brutal de um autor britânico famoso e conhecido ativista contra as touradas leva Max e Miranda até Cazador, no interior selvagem de Maiorca. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103103000 +0000" stop="20210103111200 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Três traficantes que enfrentam julgamento por terem morto um homem são alvejados e mortos antes do julgamento com minutos de diferença entre cada homicídio. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103111200 +0000" stop="20210103115300 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Um homem é encontrado morto numa cave, mas a casa onde a morte ocorreu é encontrada a quilómetros de distância num barco no Rio East. Entretanto, Flack descobre que a irmã perdeu o emprego e tem um problema de alcoolismo. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103115300 +0000" stop="20210103123500 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Quando dois homens que têm o mesmo nome do detetive Mac Taylor são mortos, o detetive Taylor contacta todos os outros Mac Taylors em Nova Iorque e tenta perceber quem será a próxima vítima. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103123500 +0000" stop="20210103131600 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Os restos mortais de uma grávida de 17 anos são encontrados na bagageira de um carro acidentado, mas o bebé não se encontra no local. Durante a investigação, Danny descobre algumas notícias chocantes sobre Lindsay. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103131600 +0000" stop="20210103135900 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">A CSI investiga a morte do segurança de um camião blindado, que parece estar relacionado com distúrbios num chamado 'Triângulo das Bermudas' de atividade elétrica perto do Empire State Building. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103135900 +0000" stop="20210103144200 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Durante a noite, dois agentes do Departamento de Polícia de Nova Iorque encontram um jovem a tentar colocar o corpo de uma mulher na bagageira de um carro. Quando a polícia o persegue, o jovem fica emapalado numa vedação, deixando muitas questões sem resposta. Mac encontra Ella McBride, passando algum tempo a descobrir se Isabelle Vaughn morreu por ter comido a fruta milagrosa. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103144200 +0000" stop="20210103152300 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Jovens noivas lutam por um vestido cobiçado nos maiores saldos de vestidos de noiva do ano e uma delas aparece morta. As pistas pouco comuns deste caso forçam o Dr. Hawkes a enfrentar um capítulo doloroso do seu passado. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103152300 +0000" stop="20210103160700 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Enquanto investigava a morte e desmembramento do treinador de wrestling de uma escola secundária, o detetive Flack mete-se em sarilhos quando um suspeito morre sob a sua custódia. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103160700 +0000" stop="20210103165200 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">A morte de um ucraniano ajuda a CSI a desvendar uma rede de tráfico sexual. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103165200 +0000" stop="20210103173200 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Quando o vice-presidente da câmara é morto, as suspeitas caem sobre um editor de jornal de quinta categoria. Entretanto, a 'gripe azul' pode causar problemas entre Danny e o laboratório criminal. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103173200 +0000" stop="20210103181400 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">O laboratório lida com um caso que envolve um empresário da Internet cujo corpo foi desfeito por abutres. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103181400 +0000" stop="20210103190100 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Um grupo terrorista ambiental faz um ataque bombista à casa de um reciclador de eletrónica e a sua filha é morta. Acontece que esta faz parte do grupo terrorista. Entretanto, Danny pondera pedir novamente Lindsay em casamento. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103190100 +0000" stop="20210103194700 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">O laboratório faz uma descoberta terrível enquanto investigava a morte da mulher de um colaborador do gabinete do médico legista e Stella monta uma armadilha para os ladrões de moedas gregas. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103194700 +0000" stop="20210103202900 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">A CSI tenta perceber quem é o responsável pela morte do chefe de uma tribo nativo americana que esteve entre os habitantes originais de Manhattan. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103202900 +0000" stop="20210103211200 +0000" channel="FOX Crime">
+    <title lang="en">CSI: Nova Iorque</title>
+    <desc lang="en">Uma vítima de homicídio afinal era um stalker violento e o homicida pode ser uma das suas vítimas de perseguição que aprendeu a cobrir o seu rasto num dos seminários de Bonasera na universidade. Classificação etária: +12.(n)</desc>
+  </programme>
+  <programme start="20210103211200 +0000" stop="20210103220100 +0000" channel="FOX Crime">
+    <title lang="en">Grantchester</title>
+    <desc lang="en">Will e Leonard testemunham um atropelamento e fuga terrível e premeditado em Grantchester. Geordie segue o carro até à casa de dois irmãos claramente disfuncionais que fica num lugar recôndito. A esposa da vítima, o seu empregado e os dois irmãos têm todos personalidades afetadas e estão presos numa rede de mentiras e traições, escondendo mais do que segredos nos terrenos. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103220100 +0000" stop="20210103224900 +0000" channel="FOX Crime">
+    <title lang="en">Grantchester</title>
+    <desc lang="en">Após um início conturbado na sua relação, Will e a jornalista Ellie vão ao cinema no seu primeiro encontro. No entanto, um grito vindo da sala de projeção acaba com o clima de romance, uma vez que eles descobrem que um homicídio brutal aconteceu dentro do cinema. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103224900 +0000" stop="20210103234000 +0000" channel="FOX Crime">
+    <title lang="en">Cherif</title>
+    <desc lang="en">A caminho da esquadra, Déborah quase é morta por um atirador misterioso que seguia de mota. Paul Blanchard, que seguia na rua naquela altura, não tem tanta sorte e perde a vida. Cherif e Briard rapidamente descobrem que a vítima está ligada ao rapto de Aurore Surgères, a única filha de um industrial de relevo de Lyon. O tempo escasseia... e cada minuto conta. Classificação etária: 12+.(n)</desc>
+  </programme>
+  <programme start="20210103000900 +0000" stop="20210103001200 +0000" channel="FOX Life">
+    <title lang="en">Cenas de Família</title>
+    <desc lang="en">Rui recebe uma supressa em direto numa radio local que jamais esquecerá. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103001200 +0000" stop="20210103015600 +0000" channel="FOX Life">
+    <title lang="en">As Cinquenta Sombras Livre</title>
+    <desc lang="en">Acreditando ter deixado para trás as figuras sombrias do seu passado, os recém-casados Christian e Ana mergulham de cabeça numa relação complexa e partilham uma vida de luxo. Porém, quando Ana assume o papel de Mrs. Grey e Christian se adapta a um novo sentimento de estabilidade, surgem novas ameaças que podem pôr em risco um final feliz para esta história. Classificação etária: M/16.(n)</desc>
+  </programme>
+  <programme start="20210103015600 +0000" stop="20210103023800 +0000" channel="FOX Life">
+    <title lang="en">Ossos</title>
+    <desc lang="en">A equipa investiga a morte de uma mulher cujo corpo tinha sido encontrado mutilado num contentor de lixo da cidade. Enquanto isso, Booth convida Sweets para ficar em sua casa com ele e Brennan enquanto procurava um novo apartamento. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103023800 +0000" stop="20210103031900 +0000" channel="FOX Life">
+    <title lang="en">Ossos</title>
+    <desc lang="en">Brennan chama cinco dos seus melhores colaboradores para conseguirem identificar unss restos mortais. Durante a investigação, acabam por descobrir a identidade de um homem que tinha morrido nos ataques do 11 de setembro, e questionam-se se o homem seria uma vítima ou um dos culpados. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103031900 +0000" stop="20210103040100 +0000" channel="FOX Life">
+    <title lang="en">Ossos</title>
+    <desc lang="en">A equipa investiga a morte de um perito em limpezas de locais de crime cujo corpo aparece misteriosamente num lago impenetrável que desaguava na praia. Enquanto isso, Angela e Hodgins descobrem que Cam tem um romance secreto. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103040100 +0000" stop="20210103044300 +0000" channel="FOX Life">
+    <title lang="en">Ossos</title>
+    <desc lang="en">A equipa tem que descobrir a identidade dos restos mortais descobertos por um artista de rua que ficou com um pedaço do corpo colado a si. Enquanto isso, Booth tenta a sua sorte numa noite de microfone aberto num clube para conseguir identificar potenciais suspeitos e o gosto de Angela por arte faz com que se sinta atraída pelo artista de rua. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103044300 +0000" stop="20210103052500 +0000" channel="FOX Life">
+    <title lang="en">Ossos</title>
+    <desc lang="en">A equipa investiga a morte de um jovem cuja alma continua bem viva. Quando a médium Avalon Harmonia tenta ajudar o espírito do jovem a passar para o outro lado, os elementos da equipa começam a questionar as suas próprias crenças sobre a vida depois da morte. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103052500 +0000" stop="20210103060500 +0000" channel="FOX Life">
+    <title lang="en">Ossos</title>
+    <desc lang="en">A equipa investiga a morte de uma bailarina que tinha sido assassinada três dias antes da audição para uma conceituada competição de dança. Para resolverem o caso, Brennan e Booth infiltram-se como um par de bailarinos na competição na esperança de conseguirem identificar potenciais suspeitos. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103060500 +0000" stop="20210103062600 +0000" channel="FOX Life">
+    <title lang="en">Odd Mom Out</title>
+    <desc lang="en">O mundo fantasticamente ultrajante das super-ricas do Upper East Side de Nova York.(n)</desc>
+  </programme>
+  <programme start="20210103062600 +0000" stop="20210103075100 +0000" channel="FOX Life">
+    <title lang="en">Touched</title>
+    <desc lang="en">Norma, uma escritora, descobre que tem cancro e contrata uma enfermeira, Emma, que testa um tratamento secreto na sua paciente. Durante a fase de tratamentos, Norma retoma a escrita dos seus livros antigos e, finalmente, intitula o seu favorito de “Touched”. Norma e Emma descobrem que a felicidade é a verdadeira medicina. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103075100 +0000" stop="20210103091500 +0000" channel="FOX Life">
+    <title lang="en">Casa Vita</title>
+    <desc lang="en">Um jogador de basebol descobre a felicidade ao lado de uma mulher que trabalha no seu restaurante favorito. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103091500 +0000" stop="20210103100100 +0000" channel="FOX Life">
+    <title lang="en">9-1-1</title>
+    <desc lang="en">Athena pede a ajuda da estação 118 quando um adolescente perde o controlo do veículo numa autoestrada. Entretanto, uma operação Stop de rotina descobre um caso de rapto chocante e Buck luta com a sua recuperação. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103100100 +0000" stop="20210103104700 +0000" channel="FOX Life">
+    <title lang="en">9-1-1</title>
+    <desc lang="en">Um forte tsunami atinge o Pontão de Santa Monica, colocando as vidas de Buck e Christopher em perigo. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103104700 +0000" stop="20210103113100 +0000" channel="FOX Life">
+    <title lang="en">9-1-1</title>
+    <desc lang="en">Athena, Maddie, Bobby e o 118 correm contra o tempo para salvar vidas quando um forte tsunami atinge o Pontão de Santa Monica e Buck teme o pior quando Christopher desaparece. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103113100 +0000" stop="20210103121400 +0000" channel="FOX Life">
+    <title lang="en">9-1-1</title>
+    <desc lang="en">Os agentes de intervenção primária correm contra o tempo para salvar os trabalhadores que se encontram num prédio alto durante um simulacro de incêndio, uma mãe e os seus filhos envolvidos num grave acidente de viação e dois irmãos que lutam por uma herança de família. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103121400 +0000" stop="20210103130100 +0000" channel="FOX Life">
+    <title lang="en">Chicago Med</title>
+    <desc lang="en">Uma equipa de filmagem chega ao hospital. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103130100 +0000" stop="20210103134500 +0000" channel="FOX Life">
+    <title lang="en">Chicago Med</title>
+    <desc lang="en">Manning tem de lidar com um paciente oncológico de 8 anos que recusa tratamento e com o pai dele, que apoia a decisão. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103134500 +0000" stop="20210103151700 +0000" channel="FOX Life">
+    <title lang="en">Baby Bootcamp</title>
+    <desc lang="en">Alice, uma instrutora de fitness, descobre que está gravida e o seu namorado abandona o barco, deixando-a a lidar com esta experiência única com a ajuda do seu grupo Baby Bootcampers. Nesse grupo está um pai solteiro que lhe mostra como um pai e um namorado devem ser. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103151700 +0000" stop="20210103164200 +0000" channel="FOX Life">
+    <title lang="en">Hometown Hero</title>
+    <desc lang="en">Kelsey, uma jovem advogada especializada em divórcios, acha mais seguro manter o amor fora da sua vida – até que um cão vadio a apresenta a Harrison, o veterinário local. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103164200 +0000" stop="20210103181700 +0000" channel="FOX Life">
+    <title lang="en">Hopeless Romantic</title>
+    <desc lang="en">Com a ajuda da sua amiga Liz, Matt tenta usar filmes de comédia romântica clássicos como modelo para reconquistar a sua ex-namorada, até que percebe que pode estar a investir na rapariga errada. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103181700 +0000" stop="20210103202000 +0000" channel="FOX Life">
+    <title lang="en">New Year's Eve</title>
+    <desc lang="en">As vidas de diversos casais e solteiros em Nova Iorque entrelaçam-se na Passagem de Ano. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103202000 +0000" stop="20210103222000 +0000" channel="FOX Life">
+    <title lang="en">O Mal Casado</title>
+    <desc lang="en">Um homem recém-casado que acredita que deu o nó com a mulher perfeita vai apaixonar-se por outra mulher na sua lua de mel. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103003100 +0000" stop="20210103021900 +0000" channel="Fox Movies">
+    <title lang="en">Striptease</title>
+    <desc lang="en">No seu papel mais ousado de sempre, Demi Moore é uma mãe solteira que se torna stripper num clube noturno de Miami para ganhar dinheiro para a batalha pela custódia da filha. Contudo, a sua dança sensual atrai a atenção indesejada de um polícia desequilibrado que não terá limites - nem mesmo o homicídio - para a possuir. Classificação etária: M/16.(n)</desc>
+  </programme>
+  <programme start="20210103021900 +0000" stop="20210103035300 +0000" channel="Fox Movies">
+    <title lang="en">Destino Infernal</title>
+    <desc lang="en">Um pai que busca vingança foge do inferno e persegue os homens que mataram a sua filha e raptaram a sua neta. Classificação etária: M/16.(n)</desc>
+  </programme>
+  <programme start="20210103035300 +0000" stop="20210103053200 +0000" channel="Fox Movies">
+    <title lang="en">O Batedor</title>
+    <desc lang="en">Thriller de suspense sobre um ex-especialista em sobrevivência militar e rastreador de florestas profundas que se une a um agente do FBI para rastrear e caçar um assassino treinado que, pelos seus próprios motivos, os atrai para um jogo do gato e rato esgotante. Com precisão implacável e instinto para matar, o assassino está sempre um passo à frente daqueles que vão no seu encalço. Classificação etária: M/16.(n)</desc>
+  </programme>
+  <programme start="20210103053200 +0000" stop="20210103063600 +0000" channel="Fox Movies">
+    <title lang="en">Fecho De Emissão</title>
+    <desc lang="en">Fecho De Emissão.(n)</desc>
+  </programme>
+  <programme start="20210103063600 +0000" stop="20210103080600 +0000" channel="Fox Movies">
+    <title lang="en">Um Casamento Quase Perfeito</title>
+    <desc lang="en">Neste regresso divertido aos anos 80, o cantor de rock frustrado Robbie Hart anima casamentos e tem uma noiva que está prestes a partir-lhe o coração. Quando é deixado no altar no seu próprio casamento, torna-se no pior pesadelo dois noivos... até que percebe que está livre para resgatar a mulher que realmente ama do seu noivo grosseiro. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103080600 +0000" stop="20210103094900 +0000" channel="Fox Movies">
+    <title lang="en">O Diabo Veste Prada</title>
+    <desc lang="en">Uma rapariga do Midwest mal sabe o que a espera quando se muda para Nova Iorque para se tornar escritora e acaba como assistente da editora-chefe de uma grande revista de moda com uma personalidade vincada e autoritária. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103094900 +0000" stop="20210103110900 +0000" channel="Fox Movies">
+    <title lang="en">Ases Pelos Ares</title>
+    <desc lang="en">Sean 'Topper' Harley, um jovem oficial da Força Aérea refugia-se numa aldeia índia, reduzindo-se voluntariamente ao anonimato e ao esquecimento. Há vinte anos atrás o seu pai cometeu um erro terrível e agora Topper julga não ser capaz de superar o trauma. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103110900 +0000" stop="20210103123200 +0000" channel="Fox Movies">
+    <title lang="en">Ases Pelos Ares 2</title>
+    <desc lang="en">Durante a Guerra do Golfo os iraquianos conseguem capturar um grupo de americanos pelo que uma missão de resgate deve ser cuidadosamente preparada. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103123200 +0000" stop="20210103141500 +0000" channel="Fox Movies">
+    <title lang="en">McQuade, o Lobo Solitário</title>
+    <desc lang="en">Quando a filha adolescente do lendário Ranger do Texas renegado J.J. McQuade (Chuck Norris) é ameaçada por ladrões de estrada, na tentativa de roubarem um camião cheio de armas e munições, McQuade vê-se obrigado a intervir. Ao investigar o sucedido, põe a descoberto uma operação de tráfico e venda ilegal de armas liderada por Rawley (David Carradine). O confronto será inevitável. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103141500 +0000" stop="20210103155300 +0000" channel="Fox Movies">
+    <title lang="en">Destino Infernal</title>
+    <desc lang="en">Um pai que busca vingança foge do inferno e persegue os homens que mataram a sua filha e raptaram a sua neta. Classificação etária: M/16.(n)</desc>
+  </programme>
+  <programme start="20210103155300 +0000" stop="20210103173100 +0000" channel="Fox Movies">
+    <title lang="en">Morte em Tombstone</title>
+    <desc lang="en">Quando um gangue implacável invade uma pequena cidade mineira, os seus membros acabam por assassinar o seu próprio líder, Guerrero Hernandez, numa tomada de poder a sangue frio. Condenado a uma eternidade no Inferno, Guerrero vê-se confrontado pelo próprio Satanás. Classificação etária: M/16.(n)</desc>
+  </programme>
+  <programme start="20210103173100 +0000" stop="20210103190900 +0000" channel="Fox Movies">
+    <title lang="en">Outra Morte em Tombstone</title>
+    <desc lang="en">O fora-da-lei terrível Guerrero (Danny Trejo) regressa dos mortos neste western cheio de ação que promete deixá-lo preso ao ecrã. Guerrero é forçado a proteger uma relíquia roubada de cair nas mãos de Jackson Boomer (Jake Busey, Starship Troopers) e do seu gangue de soldados, mas Jackson não vai parar por nada para ressuscitar os seus companheiros dos mortos e trazer a ira do inferno sobre a terra. Classificação etária: M/16.(n)</desc>
+  </programme>
+  <programme start="20210103190900 +0000" stop="20210103211500 +0000" channel="Fox Movies">
+    <title lang="en">Patriots Day - Unidos Por Boston</title>
+    <desc lang="en">A história do ataque-bomba na maratona de Boston, em 2013, e dos acontecimentos que lhe seguiram, incluindo uma caça ao homem por toda a cidade para encontrar os terroristas responsáveis. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103211500 +0000" stop="20210103225400 +0000" channel="Fox Movies">
+    <title lang="en">Velocidade Terminal</title>
+    <desc lang="en">Ditch Brodie é um instrutor de paraquedismo. Certo dia, aparece uma rapariga bastante elegante, que quer dar o seu primeiro salto. No ar, Ditch deixa de olhar para ela por um momento, para depois descobrir que ela caiu e morreu com o impacto. Classificação etária: M/12.(n)</desc>
+  </programme>
+  <programme start="20210103000000 +0000" stop="20210103010000 +0000" channel="FOX News">
+    <title lang="en">Fox Report Saturday</title>
+  </programme>
+  <programme start="20210103010000 +0000" stop="20210103020000 +0000" channel="FOX News">
+    <title lang="en">Watters' World</title>
+  </programme>
+  <programme start="20210103020000 +0000" stop="20210103030000 +0000" channel="FOX News">
+    <title lang="en">Justice With Judge Jeanine</title>
+  </programme>
+  <programme start="20210103030000 +0000" stop="20210103040000 +0000" channel="FOX News">
+    <title lang="en">The Greg Gutfeld Show</title>
+  </programme>
+  <programme start="20210103040000 +0000" stop="20210103050000 +0000" channel="FOX News">
+    <title lang="en">Watters' World</title>
+  </programme>
+  <programme start="20210103050000 +0000" stop="20210103060000 +0000" channel="FOX News">
+    <title lang="en">Justice With Judge Jeanine</title>
+  </programme>
+  <programme start="20210103060000 +0000" stop="20210103070000 +0000" channel="FOX News">
+    <title lang="en">The Greg Gutfeld Show</title>
+  </programme>
+  <programme start="20210103070000 +0000" stop="20210103080000 +0000" channel="FOX News">
+    <title lang="en">Watters' World</title>
+  </programme>
+  <programme start="20210103080000 +0000" stop="20210103090000 +0000" channel="FOX News">
+    <title lang="en">Justice With Judge Jeanine</title>
+  </programme>
+  <programme start="20210103090000 +0000" stop="20210103100000 +0000" channel="FOX News">
+    <title lang="en">The Greg Gutfeld Show</title>
+  </programme>
+  <programme start="20210103100000 +0000" stop="20210103110000 +0000" channel="FOX News">
+    <title lang="en">Fox Report Saturday</title>
+  </programme>
+  <programme start="20210103110000 +0000" stop="20210103140000 +0000" channel="FOX News">
+    <title lang="en">FOX &amp; Friends Sunday</title>
+  </programme>
+  <programme start="20210103140000 +0000" stop="20210103160000 +0000" channel="FOX News">
+    <title lang="en">Sunday Morning Futures</title>
+  </programme>
+  <programme start="20210103160000 +0000" stop="20210103170000 +0000" channel="FOX News">
+    <title lang="en">Mediabuzz (DC)</title>
+  </programme>
+  <programme start="20210103170000 +0000" stop="20210103180000 +0000" channel="FOX News">
+    <title lang="en">America's News HQ</title>
+  </programme>
+  <programme start="20210103180000 +0000" stop="20210103190000 +0000" channel="FOX News">
+    <title lang="en">America's News HQ (DC)</title>
+  </programme>
+  <programme start="20210103190000 +0000" stop="20210103200000 +0000" channel="FOX News">
+    <title lang="en">Fox News Sunday</title>
+  </programme>
+  <programme start="20210103200000 +0000" stop="20210103210000 +0000" channel="FOX News">
+    <title lang="en">The Journal Editorial</title>
+  </programme>
+  <programme start="20210103210000 +0000" stop="20210103220000 +0000" channel="FOX News">
+    <title lang="en">America's News HQ</title>
+  </programme>
+  <programme start="20210103220000 +0000" stop="20210104000000 +0000" channel="FOX News">
+    <title lang="en">The Greg Gutfeld Show</title>
+  </programme>
+  <programme start="20210103010000 +0000" stop="20210103013000 +0000" channel="RTP Açores">
+    <title lang="en">Notícias do Atlântico - Açores</title>
+    <desc lang="en">A actualidade informativa do Arquipélago dos Açores com emissão na RTP Internacional.(n)</desc>
+  </programme>
+  <programme start="20210103013000 +0000" stop="20210103030000 +0000" channel="RTP Açores">
+    <title lang="en">Atlântida Açores 2021</title>
+    <desc lang="en">O programa Atlântida, produzido pela RTP Açores e apresentado por Sidónio Bettencourt é emitido também na RTP Internacional e RTP Madeira, é um espaço destinado a divulgar as vivências e cultura dos açorianos, residentes ou não nas nove ilhas, nos seus mais diversos aspetos: etnográficos, folclórico, musical, religioso, patrimonial, etc.(n)</desc>
+  </programme>
+  <programme start="20210103030000 +0000" stop="20210103032300 +0000" channel="RTP Açores">
+    <title lang="en">Europa Minha</title>
+    <desc lang="en">Série de 35 programas que seguem o trabalho das instituições europeias com destaque para os principais temas da atualidade.(n)</desc>
+  </programme>
+  <programme start="20210103032300 +0000" stop="20210103050000 +0000" channel="RTP Açores">
+    <title lang="en">Blue Sea Projeto - ´Marés em 9 cantos´</title>
+    <desc lang="en">Uma viagem musical e poética pelo cancioneiro das nove Ilhas dos Açores. Concerto com a direção musical e arranjos de Filipe Fonseca e textos de Victor Rui Dores.(n)</desc>
+  </programme>
+  <programme start="20210103050000 +0000" stop="20210103053000 +0000" channel="RTP Açores">
+    <title lang="en">Telejornal Açores</title>
+    <desc lang="en">Diáriamente, a RTP Açores mostra-lhe o que de mais relevante se passou na região, no país e no mundo.(n)</desc>
+  </programme>
+  <programme start="20210103053000 +0000" stop="20210103055500 +0000" channel="RTP Açores">
+    <title lang="en">Fabrico Internacional</title>
+    <desc lang="en">'Levar novos medicamentos ao mundo' - já era claro o objetivo de Luís Portela quando, em 1979, ficou à frente do laboratório farmacêutico que o avô fundara no Porto. O então jovem médico abdicava assim de exercer Medicina para honrar o legado familiar. Durante a sua presidência, a BIAL desenvolveu o primeiro medicamento 100% português. Hoje comercializa dois fármacos inovadores nas mais variadas geografias.(n)</desc>
+  </programme>
+  <programme start="20210103055500 +0000" stop="20210103073200 +0000" channel="RTP Açores">
+    <title lang="en">Conan Osíris ao Vivo no Coliseu dos Recreios</title>
+    <desc lang="en">Desde que chegou do futuro, Conan Osíris ainda não parou de viajar por Portugal e pelo mundo, e Lisboa, a sua base terrestre, recebeu o seu concerto no Coliseu dos Recreios, no passado dia 12 de Dezembro. Numa noite única, em formato arena, foram ouvidos temas como 'Telemóveis', 'Borrego', 'Amália', ou 'Adoro Bolos' num espectáculo que fundiu os limites da música e da dança.(n)</desc>
+  </programme>
+  <programme start="20210103073200 +0000" stop="20210103074500 +0000" channel="RTP Açores">
+    <title lang="en">A Essência</title>
+    <desc lang="en">Programa semanal sobre a vinha e os vinhos portugueses em Portugal e no mundo. O mercado nacional e o mercado de exportação.(n)</desc>
+  </programme>
+  <programme start="20210103074500 +0000" stop="20210103083000 +0000" channel="RTP Açores">
+    <title lang="en">Visita Guiada</title>
+    <desc lang="en">Olhão é, de alguma forma, uma cidade inventada. Nascida como subúrbio de Faro no séc. XVII, afirmou-se por vontade própria com atos de valentia como o que, no séc. XIX, levou os pescadores e contrabandistas olhanenses a expulsar à paulada os invasores franceses.(n)</desc>
+  </programme>
+  <programme start="20210103083000 +0000" stop="20210103085800 +0000" channel="RTP Açores">
+    <title lang="en">Biosfera</title>
+    <desc lang="en">Depois de, nos últimos anos, a população europeia se ter unido contra os plásticos de uso único, eis que embalagens de take away e milhões de metros de filme plástico voltaram a ganhar espaço nas rotinas do dia-a-dia. Os especialistas alertam: estamos a viver uma pandemia do descartável.(n)</desc>
+  </programme>
+  <programme start="20210103085800 +0000" stop="20210103092100 +0000" channel="RTP Açores">
+    <title lang="en">Bombordo</title>
+    <desc lang="en">Muito mudou, desde que os povos da Antiguidade descobriram como conservar os alimentos. Mas na costa portuguesa, há tradições centenárias de salga e secagem de peixe que ainda hoje são respeitadas e valorizadas. Tudo começou com os romanos e um complexo imponente em Tróia, de onde saía 'garum' para todo o Império.(n)</desc>
+  </programme>
+  <programme start="20210103092100 +0000" stop="20210103093600 +0000" channel="RTP Açores">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Katja tem 12 anos de idade e adora comer e cozinhar. É demasiado pesada para a idade e começou a ser gozada na escola. Mas Katja quer mudar e está decidida a controlar o seu peso.(n)</desc>
+  </programme>
+  <programme start="20210103093600 +0000" stop="20210103094600 +0000" channel="RTP Açores">
+    <title lang="en">Os Bochechas</title>
+    <desc lang="en">Os Bochechas são uma família composta por seis irmãos: Carlos, as gémeas Loli e Pili, Braulio, Sónia e o pequeno Tatá, a quem se junta em todas as suas aventuras a sua mascote, Chispa.(n)</desc>
+  </programme>
+  <programme start="20210103094600 +0000" stop="20210103100200 +0000" channel="RTP Açores">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas.(n)</desc>
+  </programme>
+  <programme start="20210103100200 +0000" stop="20210103101700 +0000" channel="RTP Açores">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas.(n)</desc>
+  </programme>
+  <programme start="20210103101700 +0000" stop="20210103103000 +0000" channel="RTP Açores">
+    <title lang="en">ExperimentArte</title>
+    <desc lang="en">A Beatriz Frazão dá-vos dicas de como ocuparem os vossos tempos livres este Verão. Que tal construir uma tenda tipi? Ou fazer bolas de sabão gigantes? Criar aquela t-shirt única ou fazer um chuveiro para os dias mais quentes! E que tal começar a cuidar de uma horta, que pode ser em qualquer lado! São 25 ideias de atividades para o ar livre, no bairro, onde podemos brincar, criar, sujar, rir e pensar.(n)</desc>
+  </programme>
+  <programme start="20210103103000 +0000" stop="20210103113000 +0000" channel="RTP Açores">
+    <title lang="en">Eucaristia Dominical</title>
+    <desc lang="en">A celebração dominical do Dia e da Eucaristia do Senhor está no centro da vida da Igreja Católica.(n)</desc>
+  </programme>
+  <programme start="20210103113000 +0000" stop="20210103170000 +0000" channel="RTP Açores">
+    <title lang="en">RTP3 / RTP Açores</title>
+    <desc lang="en">RTP Açores em emissão simultânea com a RTP3.(n)</desc>
+  </programme>
+  <programme start="20210103170000 +0000" stop="20210103172600 +0000" channel="RTP Açores">
+    <title lang="en">Notícias do Atlântico - Açores</title>
+    <desc lang="en">A actualidade informativa do Arquipélago dos Açores com emissão na RTP Internacional.(n)</desc>
+  </programme>
+  <programme start="20210103172600 +0000" stop="20210103174800 +0000" channel="RTP Açores">
+    <title lang="en">Consulta Externa</title>
+    <desc lang="en">Profissionais de saúde da Região, e não só, explicam as mais diversas patologias, dando conselhos e informações de suma importância para a população em geral.(n)</desc>
+  </programme>
+  <programme start="20210103174800 +0000" stop="20210103181700 +0000" channel="RTP Açores">
+    <title lang="en">Eurodeputados</title>
+    <desc lang="en">Os Eurodeputados, dos diferentes partidos políticos representados no Parlamento Europeu, a partir da sede em Estrasburgo abordam, semanalmente, as grandes questões que preocupam os Europeus, entre os quais evidentemente os portugueses. Um programa moderado por Fernanda Gabriel.(n)</desc>
+  </programme>
+  <programme start="20210103181700 +0000" stop="20210103191400 +0000" channel="RTP Açores">
+    <title lang="en">Músicas d´África</title>
+    <desc lang="en">Entrevista: Dj Mandas Videoclips em alinhamento: Moda um Passaro (Mc Tranka Fulha ft Ferro Gaita), Beautiful (Monsta ft Yuri da Cunha), Kumangweto (Boy Line), Mantenha (Dj Mandas ft Manecas Costa), Eu Me Importo Contigo (Arnaldo Manhice), Tarraxa (Loy JTD), Angelina (Juka), Mais (Branco Cozzy), Nha Esperança (Sidónio Pais), Mode Que Nta Fica (Maicam Monteiro), Sem Ti (Luzy Ramos) e Pra Lhes Doer Mais (Twenty Fingers).(n)</desc>
+  </programme>
+  <programme start="20210103191400 +0000" stop="20210103192600 +0000" channel="RTP Açores">
+    <title lang="en">Memórias e Oficíos</title>
+    <desc lang="en">'Memórias e Ofícios' retrata histórias de vida e recorda algumas profissões que fazem parte da nossa memória e do património etnográfico.(n)</desc>
+  </programme>
+  <programme start="20210103192600 +0000" stop="20210103194200 +0000" channel="RTP Açores">
+    <title lang="en">De Lisboa a Helsínquia</title>
+    <desc lang="en">De norte a sul e de leste a oeste, o programa semanal de informação 'De Lisboa a Helsínquia' vai percorrer 56 regiões dos 28 Estados membros da União Europeia. Será investigada a utilidade e relevância de projectos financiados por fundos europeus nas áreas do ambiente, da educação, da saúde, da cultura, da inovação e da imigração.(n)</desc>
+  </programme>
+  <programme start="20210103194200 +0000" stop="20210103201300 +0000" channel="RTP Açores">
+    <title lang="en">Mesa Portuguesa... com Estrelas Com Certeza!</title>
+    <desc lang="en">Neste episódio o Chef Ricardo Costa mostra-nos o Porto Património da Humanidade visto de Gaia e do The Yeatman. Inspirações da cozinha tradicional portuguesa, na primeira visita a um restaurante 2 Estrelas de um Chef português da nossa série, refinadas pelo génio do Chef de Aveiro que ainda nos levou à perdição do famosíssimo leitão do Mugaza.(n)</desc>
+  </programme>
+  <programme start="20210103201300 +0000" stop="20210103210000 +0000" channel="RTP Açores">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Rita decide fazer uma surpresa a João pelo seu aniversário e dar o seu manuscrito a ler a um editor conhecido. Uma iniciativa de aulas de ginástica em Beirais começa a atrair todas as mulheres e deixa os homens de Beirais ciumentos do charmoso professor. Clara sente-se perseguida por Teresa e começa um despique com esta, por ciúmes.(n)</desc>
+  </programme>
+  <programme start="20210103210000 +0000" stop="20210103213200 +0000" channel="RTP Açores">
+    <title lang="en">Telejornal Açores</title>
+    <desc lang="en">Diáriamente, a RTP Açores mostra-lhe o que de mais relevante se passou na região, no país e no mundo.(n)</desc>
+  </programme>
+  <programme start="20210103213200 +0000" stop="20210103214100 +0000" channel="RTP Açores">
+    <title lang="en">Casa do Tempo</title>
+    <desc lang="en">Repositório de memórias que os Museus e Bibliotecas preservam, para as tornar colectivas. O programa traz ao conhecimento do público, velhas peças com histórias que constituem parte da história do arquipélago, em diversas áreas.(n)</desc>
+  </programme>
+  <programme start="20210103214100 +0000" stop="20210103222800 +0000" channel="RTP Açores">
+    <title lang="en">Teledesporto</title>
+    <desc lang="en">O desporto regional ganha espaço neste programa da RTP Açores. Futebol, ciclismo, natação... todos têm lugar neste espaço que conta sempre com comentadores em estúdio.(n)</desc>
+  </programme>
+  <programme start="20210103222800 +0000" stop="20210103233100 +0000" channel="RTP Açores">
+    <title lang="en">Concerto de Ano Novo 2021 (Madeira)</title>
+    <desc lang="en">Concerto de Ano Novo pela Orquestra Clássica da Madeira.(n)</desc>
+  </programme>
+  <programme start="20210103000000 +0000" stop="20210103010000 +0000" channel="RTP África">
+    <title lang="en">24 Horas</title>
+    <desc lang="en">24 HORAS, as notícias do dia em 60 minutos, o essencial da informação à meia noite, todos os dias na RTP. A partir do Porto, o 24 HORAS é um bloco noticioso com um olhar para o dia que termina, marcando claramente a atualidade do novo dia que começa.(n)</desc>
+  </programme>
+  <programme start="20210103010000 +0000" stop="20210103013000 +0000" channel="RTP África">
+    <title lang="en">Podium</title>
+    <desc lang="en">Apresentado por Rita Belinha, este é o programa de desporto onde todas as modalidades entram e nenhuma fica esquecida...Todos os sábados, ao início da tarde, suba connosco ao Podium e conheça o que de melhor acontece no desporto em Portugal. Sempre na RTP África.(n)</desc>
+  </programme>
+  <programme start="20210103013000 +0000" stop="20210103023000 +0000" channel="RTP África">
+    <title lang="en">Cá Por Casa com Herman José - Especial Nelo e Idália</title>
+    <desc lang="en">Os melhores momentos de Nelo e Idália no Cá por Casa todos aqui reunidos.(n)</desc>
+  </programme>
+  <programme start="20210103023000 +0000" stop="20210103033000 +0000" channel="RTP África">
+    <title lang="en">Janela Indiscreta</title>
+    <desc lang="en">O Janela Indiscreta é o seu programa de cinema! Apresenta, em primeira mão, estreias cinematográficas e entrevistas exclusivas aos protagonistas das produções nacionais e internacionais, dando a conhecer curiosidades e histórias de bastidores.(n)</desc>
+  </programme>
+  <programme start="20210103033000 +0000" stop="20210103040000 +0000" channel="RTP África">
+    <title lang="en">Mar de Letras 2020 - Best Of</title>
+    <desc lang="en">É uma obra com laivos autobiográficos de uma infância cheia de mundos com Cabo Verde no coração. Carlota de Barros está de regresso ao 'Mar de Letras' com o seu mais recente livro 'Sol de Infância - Memórias das macias manhãs solares'.(n)</desc>
+  </programme>
+  <programme start="20210103040000 +0000" stop="20210103043000 +0000" channel="RTP África">
+    <title lang="en">África Sport</title>
+    <desc lang="en">As notícias da atualidade desportiva nos países de língua portuguesa. Um programa produzido a partir da delegação da RTP em Moçambique.(n)</desc>
+  </programme>
+  <programme start="20210103043000 +0000" stop="20210103053000 +0000" channel="RTP África">
+    <title lang="en">Músicas d´África</title>
+    <desc lang="en">Magazine musical com 2 apresentadores: Vanessa Figueiredo e David Bamo. Constitui uma forma de divulgação da música com origem africana, integra reportagens e entrevistas junto de intérpretes e músicos africanos.(n)</desc>
+  </programme>
+  <programme start="20210103053000 +0000" stop="20210103060000 +0000" channel="RTP África">
+    <title lang="en">Euronews</title>
+    <desc lang="en">Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procedendo depois a RTP a uma triagem dessas notícias.(n)</desc>
+  </programme>
+  <programme start="20210103060000 +0000" stop="20210103064300 +0000" channel="RTP África">
+    <title lang="en">Viva Saúde</title>
+    <desc lang="en">As benzodiazepinas, os ditos calmantes, têm sido cada vez mais utilizadas pela população. O Viva Saúde desta semana recebe o psiquiatra Amílcar Santos para avaliar os riscos e benefícios destes medicamentos tão populares.(n)</desc>
+  </programme>
+  <programme start="20210103064300 +0000" stop="20210103071400 +0000" channel="RTP África">
+    <title lang="en">Faça Chuva Faça Sol</title>
+    <desc lang="en">Graças aos perímetros de rega criados pelo empreendimento de Alqueva, a cultura do milho expandiu-se para áreas do Alentejo em que não era habitual, proporcionando produtividades mais elevadas e uma maior rentabilidade.(n)</desc>
+  </programme>
+  <programme start="20210103071400 +0000" stop="20210103073000 +0000" channel="RTP África">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Conjunto de documentários de vários países em que crianças que têm entre 8 e 12 anos narram a sua vida e se propõem a cumprir um desafio. Ao longo de cada documentário ficamos a saber onde vivem, como é a sua família e quais são os seus sonhos.(n)</desc>
+  </programme>
+  <programme start="20210103073000 +0000" stop="20210103080000 +0000" channel="RTP África">
+    <title lang="en">Mar de Letras 2020 - Best Of</title>
+    <desc lang="en">É uma obra com laivos autobiográficos de uma infância cheia de mundos com Cabo Verde no coração. Carlota de Barros está de regresso ao 'Mar de Letras' com o seu mais recente livro 'Sol de Infância - Memórias das macias manhãs solares'.(n)</desc>
+  </programme>
+  <programme start="20210103080000 +0000" stop="20210103103000 +0000" channel="RTP África">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">Um espaço informativo em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.(n)</desc>
+  </programme>
+  <programme start="20210103103000 +0000" stop="20210103112800 +0000" channel="RTP África">
+    <title lang="en">Eucaristia Dominical</title>
+    <desc lang="en">A celebração dominical do Dia e da Eucaristia do Senhor está no centro da vida da Igreja Católica.(n)</desc>
+  </programme>
+  <programme start="20210103112800 +0000" stop="20210103122800 +0000" channel="RTP África">
+    <title lang="en">Músicas d´África</title>
+    <desc lang="en">Magazine musical com 2 apresentadores: Vanessa Figueiredo e David Bamo. Constitui uma forma de divulgação da música com origem africana, integra reportagens e entrevistas junto de intérpretes e músicos africanos.(n)</desc>
+  </programme>
+  <programme start="20210103122800 +0000" stop="20210103130000 +0000" channel="RTP África">
+    <title lang="en">Mesa Portuguesa... com Estrelas Com Certeza!</title>
+    <desc lang="en">Neste episódio a Mesa Portuguesa continua por Almancil, no Algarve, desta vez no Restaurante Henrique Leis. O Chef brasileiro, com mais de duas décadas de Portugal, vai ainda à Praia da Quinta do Lago onde o Gigi nos traz o melhor peixe grelhado do Algarve.(n)</desc>
+  </programme>
+  <programme start="20210103130000 +0000" stop="20210103141500 +0000" channel="RTP África">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e sem esquecer o desporto. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade que marcam a informação na RTP.(n)</desc>
+  </programme>
+  <programme start="20210103141500 +0000" stop="20210103144800 +0000" channel="RTP África">
+    <title lang="en">África 7 Dias</title>
+    <desc lang="en">Ao fim de semana a atualidade africana passada em revista num programa de 30 minutos. Súmula de notícias semanais com origem no Repórter África.(n)</desc>
+  </programme>
+  <programme start="20210103144800 +0000" stop="20210103154500 +0000" channel="RTP África">
+    <title lang="en">Nha Terra Nha Cretcheu</title>
+    <desc lang="en">Estamos quase a terminar 2020. Um ano desafiante, talvez dos mais desafiantes das nossas vidas. Enfrentamos uma pandemia, com consequências a todos os níveis. É deste ano atípico que lhe falamos, num programa onde passamos 2020 em revista. O Presidente da Assembleia Nacional, Jorge Santos, é o convidado da semana.(n)</desc>
+  </programme>
+  <programme start="20210103154500 +0000" stop="20210103163900 +0000" channel="RTP África">
+    <title lang="en">Grandiosa Enciclopédia do Ludopédio</title>
+    <desc lang="en">Carlos Manuel Albuquerque, Rui Miguel Tovar e João Nuno Coelho fazem um programa alternativo sobre futebol. Um dicionário da tribo da bola, com histórias diferentes dentro e fora das quatro linhas.(n)</desc>
+  </programme>
+  <programme start="20210103163900 +0000" stop="20210103165800 +0000" channel="RTP África">
+    <title lang="en">Cuidado com a Língua!</title>
+    <desc lang="en">A Sala Dourada e a sua célebre sacada, a águia bicéfala do teto da Sala Princesa, as jaulas no Pátio dos Bichos do tempo de D. José e o «render da guarda» e as suas múltiplas variedades semânticas. Neste 'Cuidado com a Língua' temos uma visita guiada ao Palácio de Belém, a residência oficial do Presidente da República - outrora dos reis de Portugal, com o nome de Palácio das Leoneiras.(n)</desc>
+  </programme>
+  <programme start="20210103165800 +0000" stop="20210103185800 +0000" channel="RTP África">
+    <title lang="en">Santa Clara x Benfica - Primeira Liga NOS 2020/2021</title>
+    <desc lang="en">Num encontro de águias, domingo, 03 de dezembro, pelas 17:00 e em direto do Estádio de São Miguel, a RTP África transmite o jogo entre o C.D. Santa Clara e o S.L. Benfica, a contar para a 12a jornada da Liga NOS.(n)</desc>
+  </programme>
+  <programme start="20210103185800 +0000" stop="20210103192900 +0000" channel="RTP África">
+    <title lang="en">9º European Blues Challenge</title>
+    <desc lang="en">As 22 bandas que estiveram em competição na 9a edição do European Blues Challenge que decorreu em Ponta Delgada na Televisão que liga os Açores.(n)</desc>
+  </programme>
+  <programme start="20210103192900 +0000" stop="20210103195900 +0000" channel="RTP África">
+    <title lang="en">AntiCrise</title>
+    <desc lang="en">A Brigada AntiCrise está de volta: Eduardo Madeira, Manuel Marques e António Machado vão animar os serões da RTP1. Vamos cobrir toda a actualidade nacional e internacional com uma rede de repórteres espalhados pelos vários cantos do globo, de Chelas a Moscavide. Vamos ouvir os comentários dos especialistas, de Marcelo Rebelo de Sousa a Jorge Jesus ou Pépa Xavier. Vamos também dar voz ao povo, que tem opinião sobre tudo e mais alguma coisa.(n)</desc>
+  </programme>
+  <programme start="20210103195900 +0000" stop="20210103210100 +0000" channel="RTP África">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria e José Rodrigues dos Santos mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.(n)</desc>
+  </programme>
+  <programme start="20210103210100 +0000" stop="20210103213100 +0000" channel="RTP África">
+    <title lang="en">Arte no Quintal</title>
+    <desc lang="en">Humor: Ao vivo com Bufalo &amp; Wantsongo.(n)</desc>
+  </programme>
+  <programme start="20210103213100 +0000" stop="20210103223000 +0000" channel="RTP África">
+    <title lang="en">Geração da Independência</title>
+    <desc lang="en">O documentário Geração da Independência é um elogio aos jovens moçambicanos que, sem experiência e perante enormes dificuldades, se dedicaram à construção de um novo País, Moçambique, que nasce em 1975. Os anos da edificação do novo estado, do projeto socialista, particularmente, na economia e na educação, da guerra e da agressão militar.(n)</desc>
+  </programme>
+  <programme start="20210103223000 +0000" stop="20210104000000 +0000" channel="RTP África">
+    <title lang="en">Trio d´Ataque</title>
+    <desc lang="en">Programa de debate sobre a realidade futebolística dos 3 grandes clubes de futebol portugueses. Com apresentação de Hugo Gilberto são convidados residentes António Oliveira, João Gobern e Nuno Gonçalves.(n)</desc>
+  </programme>
+  <programme start="20210103000000 +0000" stop="20210103063000 +0000" channel="RTP Madeira">
+    <title lang="en">RTP 3 (Madeira)</title>
+    <desc lang="en">RTP 3 (Madeira).(n)</desc>
+  </programme>
+  <programme start="20210103063000 +0000" stop="20210103120000 +0000" channel="RTP Madeira">
+    <title lang="en">RTP 3 (Madeira)</title>
+    <desc lang="en">RTP 3 (Madeira).(n)</desc>
+  </programme>
+  <programme start="20210103120000 +0000" stop="20210103190000 +0000" channel="RTP Madeira">
+    <title lang="en">RTP 3 (Madeira)</title>
+    <desc lang="en">RTP 3 (Madeira).(n)</desc>
+  </programme>
+  <programme start="20210103190000 +0000" stop="20210103193000 +0000" channel="RTP Madeira">
+    <title lang="en">Notícias do Atlântico</title>
+    <desc lang="en">'Notícias do Atlântico' é um produto informativo, mais integrado, em que Açores e Madeira cruzam os alinhamentos respetivos e decidem quem, no dia-a-dia, marca a atualidade das ilhas e abre este renovado espaço informativo, para depois passar ao colega apresentador do outro arquipélago a continuação do programa, através do qual servimos, diariamente, uma hora de notícias aos espetadores de todas as antenas da RTP Internacional.(n)</desc>
+  </programme>
+  <programme start="20210103193000 +0000" stop="20210103210000 +0000" channel="RTP Madeira">
+    <title lang="en">39º Festival da Canção Infantil da Madeira</title>
+    <desc lang="en">Há quase quatro décadas que a RTP-Madeira acompanha o maior festival de música para crianças que se realiza no país. Um evento que tem a expressão do trabalho que professores e alunos fazem ao longo do ano letivo nas suas escolas.(n)</desc>
+  </programme>
+  <programme start="20210103210000 +0000" stop="20210103215000 +0000" channel="RTP Madeira">
+    <title lang="en">Telejornal Madeira</title>
+    <desc lang="en">Para os espectadores da Região e da diáspora madeirense espalhada pelo mundo. O Telejornal da televisão mais próxima de si está no ar desde 1972 com uma informação de proximidade e a garantia de qualidade do serviço público. Visite a área Multimédia RTP.(n)</desc>
+  </programme>
+  <programme start="20210103215000 +0000" stop="20210103222000 +0000" channel="RTP Madeira">
+    <title lang="en">Passeio Público 2021</title>
+    <desc lang="en">Magazine semanal de divulgação da movida madeirense - eventos de moda,estética, concursos de beleza, festas e espetáculos musicais, com emissão nas noites de domingo.(n)</desc>
+  </programme>
+  <programme start="20210103222000 +0000" stop="20210103231500 +0000" channel="RTP Madeira">
+    <title lang="en">Domingo Desportivo 2021</title>
+    <desc lang="en">Programa semanal sobre os principais acontecimentos desportivos que ocorrem na Região, com particular incidência no desporto amador e no futebol madeirense.(n)</desc>
+  </programme>
+  <programme start="20210103231500 +0000" stop="20210104000000 +0000" channel="RTP Madeira">
+    <title lang="en">Telejornal Madeira</title>
+    <desc lang="en">Para os espectadores da Região e da diáspora madeirense espalhada pelo mundo. O Telejornal da televisão mais próxima de si está no ar desde 1972 com uma informação de proximidade e a garantia de qualidade do serviço público. Visite a área Multimédia RTP.(n)</desc>
+  </programme>
+  <programme start="20210103000000 +0000" stop="20210103003500 +0000" channel="RTP Memória">
+    <title lang="en">Rebobinar Depois De Ver</title>
+    <desc lang="en">O medo inspirado por seres de dimensões colossais ou de acabar transformado em repasto para grandes predadores marinhos foi descoberto bem cedo pelo cinema. As várias adaptações ao grande ecrã do romance Moby Dick, O Monstro da Lagoa Negra e a adaptação de Vinte Mil Léguas Submarinas produzida pela Disney são disso exemplos.(n)</desc>
+  </programme>
+  <programme start="20210103003500 +0000" stop="20210103010500 +0000" channel="RTP Memória">
+    <title lang="en">Dramazine</title>
+    <desc lang="en">O ator e encenador Castro Guedes é o apresentador deste magazine de atualidade teatral. Os episódios dos bastidores e histórias do teatro também têm lugar neste programa onde o fundador da Seiva Trupe nos conduz pelos cenários, adereços, atores e palcos nacionais.(n)</desc>
+  </programme>
+  <programme start="20210103010500 +0000" stop="20210103015000 +0000" channel="RTP Memória">
+    <title lang="en">Portugueses Pelo Mundo</title>
+    <desc lang="en">Viajamos até Boston, para conhecer como vivem e trabalham quatro portugueses que lá moram. Bem-vindos a Boston.(n)</desc>
+  </programme>
+  <programme start="20210103015000 +0000" stop="20210103022000 +0000" channel="RTP Memória">
+    <title lang="en">1000 Imagens</title>
+    <desc lang="en">Um programa sobre anúncios de televisão que se destacam pela irreverência, humor ou originalidade. Um mundo antes do youtube apresentado por José Nuno Martins.(n)</desc>
+  </programme>
+  <programme start="20210103022000 +0000" stop="20210103030500 +0000" channel="RTP Memória">
+    <title lang="en">Dentro</title>
+    <desc lang="en">Rosa, uma senhora de oitenta e cinco anos é presa por tráfico de droga. Rosa estava envolvida numa rede internacional de tráfico de droga sendo usada como pombo correio, pela sua aparência insuspeitável. Este insólito acontecimento é amplamente comentado na cadeia, sendo Rosa bastante acarinhada pelas restantes reclusas. Liliana corresponde-se com Paulo e marca o casamento.(n)</desc>
+  </programme>
+  <programme start="20210103030500 +0000" stop="20210103040000 +0000" channel="RTP Memória">
+    <title lang="en">Herman Total</title>
+    <desc lang="en">Revisitação de toda a carreira televisiva de Herman José (já com mais de 20 anos), com a seleção dos momentos mais significativos numa montagem viva e criativa. Herman Total inclui reportagens em exterior, envolvendo personalidades ligadas à carreira de Herman.(n)</desc>
+  </programme>
+  <programme start="20210103040000 +0000" stop="20210103045100 +0000" channel="RTP Memória">
+    <title lang="en">Duarte E Companhia</title>
+    <desc lang="en">Uma divertida série policial, que apresenta histórias rocambolescas, cenas de perseguição espetaculares, gangs hilariantes e uma interpretação extraordinária de Rui Mendes (o chefe), António Assunção, Henriqueta Maia, Canto e Castro, Paula Mora, Isabel de Castro entre outros.(n)</desc>
+  </programme>
+  <programme start="20210103045100 +0000" stop="20210103052700 +0000" channel="RTP Memória">
+    <title lang="en">Telerural - Especial Fim De Ano</title>
+    <desc lang="en">Neste Telerural - Especial Fim de Ano, os jornaleiros Quim e Zé, apresentam o noticiário na passagem de ano para 2009. Independência, profissionalismo e rigor informativo...não fazem parte do léxico de Curral de Moinas.(n)</desc>
+  </programme>
+  <programme start="20210103052700 +0000" stop="20210103054800 +0000" channel="RTP Memória">
+    <title lang="en">O Pingo E O Pote</title>
+    <desc lang="en">Sketch humorístico que conta a história de dois vagabundos, o Pingo (Eugénio Salvador) e o Pote (Victor Mendes), que decidem participar num combate de boxe para ganhar um prémio. Realizado em 1963, este sketch conta também com a participação de Nicolau Breyner como árbitro, e José Galvão como treinador.(n)</desc>
+  </programme>
+  <programme start="20210103054800 +0000" stop="20210103063400 +0000" channel="RTP Memória">
+    <title lang="en">Bastidores</title>
+    <desc lang="en">Marco tenta explicar a Rira a situação, mas esta acusa-o de falta de profissionalismo e não volta atrás na sua decisão. Marta vem em auxílio de Marco e promete interceder junto de Rita. É o que faz usando argumentos de peso: os custos. Rita acaba por retroceder. Sílvia está intrigada com as cartas de um fã insistente.(n)</desc>
+  </programme>
+  <programme start="20210103063400 +0000" stop="20210103065500 +0000" channel="RTP Memória">
+    <title lang="en">Jardim Da Celeste</title>
+    <desc lang="en">Um magazine educativo que pretende ensinar e divertir crianças em idade pré-escolar, apresentado por Ana Brito e Cunha. A educadora Celeste e o cão Sócrates deslocam-se a várias localidades para ajudarem os meninos Gaspar, Beatriz, Olívia, Xavier, Ernesto e Carolina a viverem experiências diferentes, a aprenderem coisas novas, a cantarem canções, a desamuar, a partilhar.(n)</desc>
+  </programme>
+  <programme start="20210103065500 +0000" stop="20210103070000 +0000" channel="RTP Memória">
+    <title lang="en">A Música Portuguesa A Gostar Dela Própria</title>
+    <desc lang="en">Microprogramas dedicados a um património vivo e muitas vezes esquecido de tradição oral, cantigas, romances, contos, práticas sacro-profanas, músicas, danças e também gastronomia. Esta consciencialização, que é essencialmente um mecanismo de alfabetização da memória, lembra-nos de que é urgente documentar, gravar e reutilizar fragmentos da memória de um povo.(n)</desc>
+  </programme>
+  <programme start="20210103070000 +0000" stop="20210103074300 +0000" channel="RTP Memória">
+    <title lang="en">Os Nossos Dias</title>
+    <desc lang="en">Gomes aparece na mercearia e conta a Bela que já não suporta estar em casa, pois tudo à volta lhe faz lembrar a falecida mulher. O patrão estranha que ela ali esteja mas Bela explica que teve de substituir Odete, que adoeceu. Bela oferece-se para cozinhar algumas refeições ao patrão, já que ele comenta que às vezes até sente o cheiro dos cozinhados da mulher.(n)</desc>
+  </programme>
+  <programme start="20210103074300 +0000" stop="20210103081400 +0000" channel="RTP Memória">
+    <title lang="en">Cinzas</title>
+    <desc lang="en">A história relata os últimos anos da vida de Rui Veiga (Armando Cortez), abastado proprietário rural e empresário de êxito em Lisboa. O devastador incêndio que ocorre numa área florestal da sua propriedade e a descoberta, no rescaldo, de um cadáver vêm modificar radicalmente a estabilidade da sua vida... As cinzas revelam um segredo que pode comprometer o futuro da família e do negócio.(n)</desc>
+  </programme>
+  <programme start="20210103081400 +0000" stop="20210103084300 +0000" channel="RTP Memória">
+    <title lang="en">Nós Os Ricos</title>
+    <desc lang="en">Os manos Idalete e Berto são tudo menos uma família normal. Pires, o mordomo, é tudo menos um mordomo normal. Na realidade, a única coisa de normal são mesmo os nomes de cada um, porque em tudo o resto reina a confusão. 'Nós Os Ricos' é uma série com boa comédia à portuguesa.(n)</desc>
+  </programme>
+  <programme start="20210103084300 +0000" stop="20210103090000 +0000" channel="RTP Memória">
+    <title lang="en">#Hashtag</title>
+    <desc lang="en">Aquele amigo que sabe sempre o que dizer, aquela amiga que te topa à primeira, o bro que nunca te deixa ficar mal. Os amigos são a família que nos deixam escolher, por isso vamos falar deles e como tudo é mais fixe quando estão contigo. Os BFF nunca falham e por isso é que são para sempre.(n)</desc>
+  </programme>
+  <programme start="20210103090000 +0000" stop="20210103095200 +0000" channel="RTP Memória">
+    <title lang="en">SMS - Ser Mais Sabedor</title>
+    <desc lang="en">Já pensou no que precisa para ser mais sabedor? Com a RTP e a Antena 3 tome atenção, prepare o seu discurso, ative o cálculo mental e encontre a resposta a todas as perguntas. O novo SMS tem mais saber e fazer.(n)</desc>
+  </programme>
+  <programme start="20210103095200 +0000" stop="20210103104000 +0000" channel="RTP Memória">
+    <title lang="en">Pai À Força</title>
+    <desc lang="en">Luísa a psicóloga dos miúdos está cada vez mais próxima de Miguel e começa a dizer-lhe como deve educar os sobrinhos. Miguel estabelece um quadro de tarefas mas ninguém cumpre. Marta confessa a Margarida e Samuel que está doente e pode ficar cega.(n)</desc>
+  </programme>
+  <programme start="20210103104000 +0000" stop="20210103111000 +0000" channel="RTP Memória">
+    <title lang="en">Meu Querido Avô</title>
+    <desc lang="en">Esta é a história das peripécias de um avô e um neto que criaram um mundo só seu. O avô correu mundo, fez de tudo um pouco, terá sido marinheiro nos mares do Sul, saltimbanco pelas praias de Itália, garimpeiro na Amazónia, jogador de hóquei em patins em África e tudo o mais que tenha vivido na realidade ou que a sua imaginação faça tornar tão real ou mais do que se o tivesse sido.(n)</desc>
+  </programme>
+  <programme start="20210103111000 +0000" stop="20210103114100 +0000" channel="RTP Memória">
+    <title lang="en">Milionários À Força</title>
+    <desc lang="en">Esta é a história da família Cordeiro, Vítor, Tina e Américo que, por circunstâncias várias , se veem obrigados a partilhar a casa. Vítor Cordeiro é um novo rico que subitamente se vê na miséria devido ás suas trafulhices e a uma noite desastrosa no Casino.(n)</desc>
+  </programme>
+  <programme start="20210103114100 +0000" stop="20210103122400 +0000" channel="RTP Memória">
+    <title lang="en">Animais Anónimos</title>
+    <desc lang="en">Animais Anónimos é um programa e uma missão: com humor, Nuno Markl, Ana Galvão e a repórter Rita La Rochezoire, contam e ouvem contar histórias sobre animais e os homens e mulheres que, diariamente, por profissão ou bondade pura fazem o que podem (e o que não podem) para salvar criaturas abandonadas e maltratadas.(n)</desc>
+  </programme>
+  <programme start="20210103122400 +0000" stop="20210103124900 +0000" channel="RTP Memória">
+    <title lang="en">Lá Em Casa Tudo Bem</title>
+    <desc lang="en">Horácio Pires Peres - português, bom chefe de família, honesto, trafulha, dinâmico, preguiçoso, autoritário, dócil, conservador, com 'ideias avançadas' - vai tornar-se visita regular ao longo desta série. Vem na pele de Raul Solnado e traz família e amigos para pura diversão.(n)</desc>
+  </programme>
+  <programme start="20210103124900 +0000" stop="20210103133000 +0000" channel="RTP Memória">
+    <title lang="en">Portugueses Pelo Mundo</title>
+    <desc lang="en">Viajamos até Zurique, na Suíça para conhecer como vivem e trabalham quatro portugueses que lá moram. Bem-vindos a Zurique. Samuel Bastos, tem 25anos, é natural de Barcelos e é músico; Diana Galvão, 28anos, natural de Lisboa, é analista de negócios; Cláudio Rebelo de 34anos, nasceu na Quarteira e é atuário; Renata Catambas de 28anos, vem de Azeitão e é assistente editorial.(n)</desc>
+  </programme>
+  <programme start="20210103133000 +0000" stop="20210103141000 +0000" channel="RTP Memória">
+    <title lang="en">Aqui Tão Longe</title>
+    <desc lang="en">Cristina recomeça a trabalhar por turnos e Júlia oferece-se para ficar com Samuel. Andreia também se oferece e Cristina dá a entender que não confia totalmente nela porque se conhecem há pouco tempo. Lurdes vai ao hospital fazer uns exames e conhece Liliana, uma rapariga doente com diabetes. Fazem companhia uma à outra enquanto esperam.(n)</desc>
+  </programme>
+  <programme start="20210103141000 +0000" stop="20210103150000 +0000" channel="RTP Memória">
+    <title lang="en">Macgyver</title>
+    <desc lang="en">Richard Dean Anderson é Macgyver, um agente astuto e muito inteligente, que opta por resolver situações de conflito sem recurso às armas e à violência. Um herói que arrisca a sua vida em delicadas operações de salvamento, utilizando como únicas armas, os utensílios que existem à sua volta..(n)</desc>
+  </programme>
+  <programme start="20210103150000 +0000" stop="20210103173100 +0000" channel="RTP Memória">
+    <title lang="en">A Escolha De Sofia</title>
+    <desc lang="en">Nos anos 40, uma emigrante polaca, depois de ter perdido dois filhos nos campos de concentração nazis, vai para Nova Iorque para tentar refazer a sua vida... Lá, conhece um biólogo judeu cheio de problemas, com quem vive uma tumultuosa paixão..(n)</desc>
+  </programme>
+  <programme start="20210103173100 +0000" stop="20210103201300 +0000" channel="RTP Memória">
+    <title lang="en">Júlio Isidro ´Ainda´ Ao Vivo E A Cores</title>
+    <desc lang="en">Júlio Isidro comemora 60 anos de carreira! E, para assinalar esta data tão especial, reuniu quem sempre o acompanhou ao longo do seu percurso na Televisão e na Rádio numa gala a partir do Salão Preto e Prata do Casino do Estoril.(n)</desc>
+  </programme>
+  <programme start="20210103201300 +0000" stop="20210103210000 +0000" channel="RTP Memória">
+    <title lang="en">Macgyver</title>
+    <desc lang="en">Richard Dean Anderson é Macgyver, um agente astuto e muito inteligente, que opta por resolver situações de conflito sem recurso às armas e à violência. Um herói que arrisca a sua vida em delicadas operações de salvamento, utilizando como únicas armas, os utensílios que existem à sua volta..(n)</desc>
+  </programme>
+  <programme start="20210103210000 +0000" stop="20210103220100 +0000" channel="RTP Memória">
+    <title lang="en">Traz Prá Frente</title>
+    <desc lang="en">Inês Lopes Gonçalves modera um debate com um painel de luxo: Fernando Alvim, Nuno Markl, Álvaro Costa, Júlio Isidro e um convidado especial. Numa conversa desempoeirada, lança-se a semana da RTP Memória à mesa, com os melhores conteúdos e surpresas em destaque. Reciclamos o Cartaz TV e trazemos para a frente um debate divertido, mas doutorado, sobre o imaginário da televisão.(n)</desc>
+  </programme>
+  <programme start="20210103220100 +0000" stop="20210103233500 +0000" channel="RTP Memória">
+    <title lang="en">A Dupla Vida De Veronique</title>
+    <desc lang="en">Weronika vive na Polónia. Véronique vive em Paris. Não se conhecem e não tem nenhuma relação. No entanto, são idênticas: ambas são canhotas, gostam de andar descalças, têm o mesmo brilho no olhar, uma voz sublime, um sentido musical absoluto e, acima de tudo, partilham o mesmo problema cardíaco dificilmente detetável..(n)</desc>
+  </programme>
+  <programme start="20210103005200 +0000" stop="20210103020900 +0000" channel="RTP1">
+    <title lang="en">Cá Por Casa com Herman José - Especial Nelo e Idália</title>
+    <desc lang="en">Os melhores momentos de Nelo e Idália no Cá por Casa todos aqui reunidos.(n)</desc>
+  </programme>
+  <programme start="20210103020900 +0000" stop="20210103040600 +0000" channel="RTP1">
+    <title lang="en">Hunter Killer</title>
+    <desc lang="en">O Presidente russo é capturado pelo seu próprio ministro da defesa num inesperado golpe de Estado que poderá colocar em causa as relações internacionais. De modo a evitar uma crise que pode dar origem a uma Terceira Guerra Mundial, um submarino dos EUA, comandado por Joe Glass, é então enviado para águas territoriais inimigas para tentar resgatar o presidente.(n)</desc>
+  </programme>
+  <programme start="20210103040600 +0000" stop="20210103060600 +0000" channel="RTP1">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.(n)</desc>
+  </programme>
+  <programme start="20210103060600 +0000" stop="20210103063000 +0000" channel="RTP1">
+    <title lang="en">Todas as Palavras</title>
+    <desc lang="en">Ana Daniela Soares e Inês Fonseca Santos apresentam os livros e os autores que nos emocionam.(n)</desc>
+  </programme>
+  <programme start="20210103063000 +0000" stop="20210103073000 +0000" channel="RTP1">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças.(n)</desc>
+  </programme>
+  <programme start="20210103073000 +0000" stop="20210103074400 +0000" channel="RTP1">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Conjunto de documentários de vários países, onde crianças entre 8 e 12 anos narram a sua vida e se propõem a cumprir um desafio. Ao longo de cada documentário ficamos a saber onde vivem, como é a sua família e quais são os seus sonhos.(n)</desc>
+  </programme>
+  <programme start="20210103074400 +0000" stop="20210103080000 +0000" channel="RTP1">
+    <title lang="en">Radar XS</title>
+    <desc lang="en">“Radar XS” é um telejornal para crianças dos 8 aos 12 anos onde se pretende incentivar o pensamento crítico e a cidadania consciente. Em estúdio vamos juntar a política e a cultura, a economia e o desporto, a ciência e a literatura infantil, a atualidade nacional e internacional numa linguagem simples e objetiva.(n)</desc>
+  </programme>
+  <programme start="20210103080000 +0000" stop="20210103103000 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">Um espaço onde se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.(n)</desc>
+  </programme>
+  <programme start="20210103103000 +0000" stop="20210103113100 +0000" channel="RTP1">
+    <title lang="en">Eucaristia Dominical</title>
+    <desc lang="en">A celebração dominical do Dia e da Eucaristia do Senhor está no centro da vida da Igreja Católica.(n)</desc>
+  </programme>
+  <programme start="20210103113100 +0000" stop="20210103130000 +0000" channel="RTP1">
+    <title lang="en">Cirque du Soleil: Kurios - Gabinete de Curiosidades</title>
+    <desc lang="en">Entre no gabinete de um inventor ambicioso que desafia as leis do tempo, do espaço e da dimensão, com o objectivo de reinventar tudo à sua volta. De repente, o visível torna-se invisível, as perspectivas são transformadas e o mundo fica literalmente virado de cabeça para baixo.(n)</desc>
+  </programme>
+  <programme start="20210103130000 +0000" stop="20210103142000 +0000" channel="RTP1">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">As notícias que marcam a atualidade nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20210103142000 +0000" stop="20210103152100 +0000" channel="RTP1">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">'Faz Faísca' põe os olhos no mundo social e artístico e nas figuras mais conhecidas e seguidas do panorama nacional e internacional. Acompanha os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e os temas fortes de publicações e comentários nas redes sociais.(n)</desc>
+  </programme>
+  <programme start="20210103152100 +0000" stop="20210103195900 +0000" channel="RTP1">
+    <title lang="en">Hoje é Domingo!</title>
+    <desc lang="en">Apresentado por Vera Fernandes e João Paulo Rodrigues, 'Hoje é Domingo!' promete muita música, humor, jogos, convidados especiais e histórias emocionantes.(n)</desc>
+  </programme>
+  <programme start="20210103195900 +0000" stop="20210103210000 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria e José Rodrigues dos Santos mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.(n)</desc>
+  </programme>
+  <programme start="20210103210000 +0000" stop="20210103213000 +0000" channel="RTP1">
+    <title lang="en">Presidenciais: Marcelo Rebelo de Sousa x Tiago Mayan</title>
+    <desc lang="en">Na contagem decrescente para as Eleições Presidenciais que terão lugar em final de janeiro de 2021, Carlos Daniel modera os debates entre os candidatos a Belém.(n)</desc>
+  </programme>
+  <programme start="20210103001300 +0000" stop="20210103021600 +0000" channel="RTP2">
+    <title lang="en">Transe</title>
+    <desc lang="en">Produzida por Paulo Branco, a quinta longa-metragem de Teresa Villaverde (depois de A Idade Maior, Três Irmãos, Os Mutantes e Água e Sal), é a história de uma mulher que abandona a família na Rússia e parte Europa fora à procura de uma vida melhor e que nessa viagem vai conhecer o inferno daqueles a quem a vida nada tem a oferecer.(n)</desc>
+  </programme>
+  <programme start="20210103021600 +0000" stop="20210103070000 +0000" channel="RTP2">
+    <title lang="en">Euronews</title>
+    <desc lang="en">Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procedendo depois a RTP a uma triagem dessas notícias.(n)</desc>
+  </programme>
+  <programme start="20210103070000 +0000" stop="20210103080000 +0000" channel="RTP2">
+    <title lang="en">Euronews</title>
+    <desc lang="en">Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procedendo depois a RTP a uma triagem dessas notícias.(n)</desc>
+  </programme>
+  <programme start="20210103080000 +0000" stop="20210103080100 +0000" channel="RTP2">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças.(n)</desc>
+  </programme>
+  <programme start="20210103080100 +0000" stop="20210103080300 +0000" channel="RTP2">
+    <title lang="en">Banda Zig Zag</title>
+    <desc lang="en">Todos foram aprender um instrumento e escolheram falar de alguns temas que nem sempre são motivo de letras de músicas.(n)</desc>
+  </programme>
+  <programme start="20210103080300 +0000" stop="20210103080700 +0000" channel="RTP2">
+    <title lang="en">As Aventuras do Xavier</title>
+    <desc lang="en">Olá, eu sou o Xavier, tenho cinco anos e gosto muito de experimentar coisas novas e diferentes. Todos os dias vou fazer uma atividade, que pode ser uma receita, uma construção, um jogo e até uma experiência científica. Gostava que as minhas aventuras também fossem vossas! Experimentem.(n)</desc>
+  </programme>
+  <programme start="20210103080700 +0000" stop="20210103083100 +0000" channel="RTP2">
+    <title lang="en">Zafari</title>
+    <desc lang="en">Em Zafari, Zoomba, um jovem elefante que nasceu com listras de zebra é evitado pela manada porque pensam que ele traz a má sorte. Por esse motivo, ele vê-se obrigado a abandonar a sua manada e decide ir morar com outros animais únicos como ele num vale na base do Monte Kilimanjaro. Aí, Zoomba descobre que é perfeito do jeito que é... uma lição que ele irá ensinar aos elementos da sua manada e ao resto do mundo.(n)</desc>
+  </programme>
+  <programme start="20210103083100 +0000" stop="20210103084200 +0000" channel="RTP2">
+    <title lang="en">Ella, Oscar &amp; Hoo</title>
+    <desc lang="en">Ella, Oscar e Hoo perseguem dinossauros, exploraram bosques misteriosos ou são dedicados assistentes do Pai Natal! Todos os dias é uma nova aventura, uma oportunidade de aprenderem juntos sobre coragem, honestidade e amizade na infância.(n)</desc>
+  </programme>
+  <programme start="20210103084200 +0000" stop="20210103085200 +0000" channel="RTP2">
+    <title lang="en">Ella, Oscar &amp; Hoo</title>
+    <desc lang="en">Ella, Oscar e Hoo perseguem dinossauros, exploraram bosques misteriosos ou são dedicados assistentes do Pai Natal! Todos os dias é uma nova aventura, uma oportunidade de aprenderem juntos sobre coragem, honestidade e amizade na infância.(n)</desc>
+  </programme>
+  <programme start="20210103085200 +0000" stop="20210103090000 +0000" channel="RTP2">
+    <title lang="en">Molang Especiais</title>
+    <desc lang="en">Molang é uma série infantil com um olhar afetuoso e bem-humorado sobre a amizade entre um coelho excêntrico, alegre e entusiasta e Piu Piu, um pintainho tímido, discreto e sentimental.(n)</desc>
+  </programme>
+  <programme start="20210103090000 +0000" stop="20210103090900 +0000" channel="RTP2">
+    <title lang="en">Desafio #MagiadoNatal</title>
+    <desc lang="en">Este Natal, o Rodrigo invade novamente o Zig Zag para lançar à patrulha de todo o país desafios monstruosamente zigzásticos! Os desafios podem ser brinquedos divertidos, pinheirinhos estrambólicos e jogos divertidos.(n)</desc>
+  </programme>
+  <programme start="20210103090900 +0000" stop="20210103092000 +0000" channel="RTP2">
+    <title lang="en">Octonautas</title>
+    <desc lang="en">São pequenos e não têm medo. São muito fofos e aventureiros. Estão preparados para todos os desafios. São os Octonautas! Prontos a mergulharem numa missão para salvarem o dia.(n)</desc>
+  </programme>
+  <programme start="20210103092000 +0000" stop="20210103093100 +0000" channel="RTP2">
+    <title lang="en">Octonautas</title>
+    <desc lang="en">São pequenos e não têm medo. São muito fofos e aventureiros. Estão preparados para todos os desafios. São os Octonautas! Prontos a mergulharem numa missão para salvarem o dia.(n)</desc>
+  </programme>
+  <programme start="20210103093100 +0000" stop="20210103093800 +0000" channel="RTP2">
+    <title lang="en">Grizzy e os Lemingues</title>
+    <desc lang="en">Grizzy, o urso, e a família mais desmiolada de sempre, os Lemingues, estão de volta para novas, atribuladas e divertidas aventuras.(n)</desc>
+  </programme>
+  <programme start="20210103093800 +0000" stop="20210103094500 +0000" channel="RTP2">
+    <title lang="en">Grizzy e os Lemingues</title>
+    <desc lang="en">Grizzy, o urso, e a família mais desmiolada de sempre, os Lemingues, estão de volta para novas, atribuladas e divertidas aventuras.(n)</desc>
+  </programme>
+  <programme start="20210103094500 +0000" stop="20210103095300 +0000" channel="RTP2">
+    <title lang="en">Grizzy e os Lemingues</title>
+    <desc lang="en">Grizzy, o urso, e a família mais desmiolada de sempre, os Lemingues, estão de volta para novas, atribuladas e divertidas aventuras.(n)</desc>
+  </programme>
+  <programme start="20210103095300 +0000" stop="20210103100400 +0000" channel="RTP2">
+    <title lang="en">Kody Kapow</title>
+    <desc lang="en">Um aspirante a super-herói de artes marciais chamado Kody passa o verão com a sua numerosa família numa pequena aldeia na China. O seu avô, um mestre em artes marciais, ensina Kody lições ancestrais de atenção plena, paciência e perseverança, que Kody utiliza enquanto ele e o seu primitivo super espião Mei partem em aventuras na aldeia, juntamente com seu amigo tigre Goji.(n)</desc>
+  </programme>
+  <programme start="20210103100400 +0000" stop="20210103101400 +0000" channel="RTP2">
+    <title lang="en">Kody Kapow</title>
+    <desc lang="en">Um aspirante a super-herói de artes marciais chamado Kody passa o verão com a sua numerosa família numa pequena aldeia na China. O seu avô, um mestre em artes marciais, ensina Kody lições ancestrais de atenção plena, paciência e perseverança, que Kody utiliza enquanto ele e o seu primitivo super espião Mei partem em aventuras na aldeia, juntamente com seu amigo tigre Goji.(n)</desc>
+  </programme>
+  <programme start="20210103101400 +0000" stop="20210103102600 +0000" channel="RTP2">
+    <title lang="en">O Meu Cavaleiro E Eu</title>
+    <desc lang="en">'O Meu Cavaleiro e Eu' conta-nos as divertidas aventuras do leal e inteligente Jimmy, da sua melhor amiga, a ousada princesa Cat, e do seu pai Henri de Orange, um cavaleiro encantadoramente inepto, mas apaixonadamente cavalheiresco que pode não ser o mais eficiente protetor do reino, mas é certamente o mais engraçado! Juntos tudo fazem para tornar a Idade das Trevas um pouco mais iluminada... e muito mais divertida.(n)</desc>
+  </programme>
+  <programme start="20210103102600 +0000" stop="20210103103700 +0000" channel="RTP2">
+    <title lang="en">O Meu Cavaleiro E Eu</title>
+    <desc lang="en">'O Meu Cavaleiro e Eu' conta-nos as divertidas aventuras do leal e inteligente Jimmy, da sua melhor amiga, a ousada princesa Cat, e do seu pai Henri de Orange, um cavaleiro encantadoramente inepto, mas apaixonadamente cavalheiresco que pode não ser o mais eficiente protetor do reino, mas é certamente o mais engraçado! Juntos tudo fazem para tornar a Idade das Trevas um pouco mais iluminada... e muito mais divertida.(n)</desc>
+  </programme>
+  <programme start="20210103103700 +0000" stop="20210103105900 +0000" channel="RTP2">
+    <title lang="en">As Aventuras de Ladybug</title>
+    <desc lang="en">Marinette e Adrien durante o dia são dois adolescentes normais com uma vida normal, mas há uma coisa sobre eles que ainda ninguém sabe: quando um mal ameaça a cidade, Marinette e Adrien transformam-se em Ladybug e Cat Noir.(n)</desc>
+  </programme>
+  <programme start="20210103105900 +0000" stop="20210103112000 +0000" channel="RTP2">
+    <title lang="en">As Aventuras de Ladybug</title>
+    <desc lang="en">Marinette e Adrien durante o dia são dois adolescentes normais com uma vida normal, mas há uma coisa sobre eles que ainda ninguém sabe: quando um mal ameaça a cidade, Marinette e Adrien transformam-se em Ladybug e Cat Noir.(n)</desc>
+  </programme>
+  <programme start="20210103112000 +0000" stop="20210103124800 +0000" channel="RTP2">
+    <title lang="en">Robinson Crusoe (Versão Portuguesa)</title>
+    <desc lang="en">Numa pequena ilha paradisíaca, o papagaio Terça-feira e o seu grupo de amigos encontram o náufrago Robinson Crusoé. No início, o convívio não é fácil, mas lentamente, todos começam a viver em harmonia, pelo menos até aparecerem dois gatos que colocam tudo em risco.(n)</desc>
+  </programme>
+  <programme start="20210103124800 +0000" stop="20210103131400 +0000" channel="RTP2">
+    <title lang="en">Dimitri - Especial</title>
+    <desc lang="en">Dimitri e os seus amigos vão viver uma grande aventura.(n)</desc>
+  </programme>
+  <programme start="20210103131400 +0000" stop="20210103133600 +0000" channel="RTP2">
+    <title lang="en">Boss Baby</title>
+    <desc lang="en">Boss Baby, com a ajuda do seu irmão mais velho e parceiro criminoso, Tim, continua a navegar pela azáfama corporativa da Baby Corp, enquanto procura alcançar o impossível: o equilíbrio entre o trabalho e a vida de um bebé quase normal.(n)</desc>
+  </programme>
+  <programme start="20210103133600 +0000" stop="20210103135800 +0000" channel="RTP2">
+    <title lang="en">Boss Baby</title>
+    <desc lang="en">Boss Baby, com a ajuda do seu irmão mais velho e parceiro criminoso, Tim, continua a navegar pela azáfama corporativa da Baby Corp, enquanto procura alcançar o impossível: o equilíbrio entre o trabalho e a vida de um bebé quase normal.(n)</desc>
+  </programme>
+  <programme start="20210103135800 +0000" stop="20210103142500 +0000" channel="RTP2">
+    <title lang="en">A Subida Das Águas No Bosque Do Arvoredo - Uma Aventura De Não-Não</title>
+    <desc lang="en">Depois de sondar os seus amigos, Não-Não decide partir em busca de aventura com seu pequeno companheiro Magaiver, o caranguejo! Mas começa a chover e se há uma coisa que nosso amigo ornitorrinco não suporta, é molhar os pés... Então os dois amigos resolvem adiar a sua grande aventura até que o tempo melhore... mas chove sem parar por dias a fio e a sua pequena aldeia desapareceu sob as águas do dilúvio.(n)</desc>
+  </programme>
+  <programme start="20210103142500 +0000" stop="20210103144800 +0000" channel="RTP2">
+    <title lang="en">Wow! Wow! Wubbzy!</title>
+    <desc lang="en">Sainda da árvore, só pensando em brincar Wubbzy não pára de saltar! A Ticha é sua amiga e vive para construir. Faz tudo para que todos se divirtam ao máximo! Valter é outro bom amigo e sabe tudo sobre tudo, desde a ciência até à arte. Com estes três amigos está garantida a diversão! Entra neste mundo e não vais querer sair.(n)</desc>
+  </programme>
+  <programme start="20210103144800 +0000" stop="20210103150300 +0000" channel="RTP2">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Paula tem 11 anos. Ela é alegre, perspicaz, inteligente e eloquente. Paula tem uma irmã mais velha com 14 anos, a Lene. Elas são muito próximas. Lene é como ela, diz Paula. Ela pode falar com ela sobre qualquer coisa. Nada é tabu. Mas Lene vai embora. Ela vai passar meio ano na Nova Zelândia e Paula não está muito feliz com isso. Está feliz pela sua irmã, é claro, mas a eminência da separação faz com que já tenha muitas saudades dela.(n)</desc>
+  </programme>
+  <programme start="20210103150300 +0000" stop="20210103150900 +0000" channel="RTP2">
+    <title lang="en">Folha de Sala</title>
+    <desc lang="en">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências. Texto e locução de Manuela Silva Reis.(n)</desc>
+  </programme>
+  <programme start="20210103150900 +0000" stop="20210103162400 +0000" channel="RTP2">
+    <title lang="en">BBC Proms: A Última Noite do Proms</title>
+    <desc lang="en">Na primeira parte do concerto, as tradições náuticas das populares obras de Henry Wood e Thomas Arne, são prolongadas em 'Songs of the Sea' do compositor irlandês Charles Stanford na interpretação do barítono canadiano Gerald Finley. O centenário do fim da Grande Guerra é assinalado com a estreia mundial da peça da compositora britânica Roxanna Panufnik (n.(n)</desc>
+  </programme>
+  <programme start="20210103162400 +0000" stop="20210103165100 +0000" channel="RTP2">
+    <title lang="en">Eco-Lógica</title>
+    <desc lang="en">Na Tailândia, a cidade de Bangkok é mais conhecida pela sua selva urbana, poluição e agitação diária do que pelos seus projetos ecológicos. O empreendimento turístico Tree House Lodge atua como um pioneiro nos projetos ecoturísticos da Tailândia. A sua arquitetura feita de materiais reciclados e a sua instalação são projetados para favorecer a ventilação natural.(n)</desc>
+  </programme>
+  <programme start="20210103165100 +0000" stop="20210103171900 +0000" channel="RTP2">
+    <title lang="en">Caminhos</title>
+    <desc lang="en">Programa informativo semanal dedicado às atividades das diversas Igrejas representadas em Portugal. Para além de abordar as atividades religiosas inerentes a cada uma, caminhos tem também uma preocupação social, tratando temas de interesse para a sociedade atual como os direitos das mulheres, a educação moral e religiosa nas escolas, a música e os jovens, o Homem perspetivado para o século XXI, entre outros.(n)</desc>
+  </programme>
+  <programme start="20210103171900 +0000" stop="20210103174500 +0000" channel="RTP2">
+    <title lang="en">70x7</title>
+    <desc lang="en">Programa em emissão há 26 anos na RTP, da responsabilidade editorial do Secretariado Nacional das Comunicações Sociais (órgão da Conferência Episcopal Portuguesa). Em cada Domingo, apresenta-se uma reportagem que procura descobrir sinais do religioso na pessoa humana.(n)</desc>
+  </programme>
+  <programme start="20210103174500 +0000" stop="20210103180800 +0000" channel="RTP2">
+    <title lang="en">Degrassi: A Turma Seguinte</title>
+    <desc lang="en">Grace enfrenta uma decisão difícil acerca da sua saúde. O primeiro encontro de Rasha corre mal. Hunter tem um momento embaraçoso. Zoe é apanhada num momento íntimo.(n)</desc>
+  </programme>
+  <programme start="20210103180800 +0000" stop="20210103183100 +0000" channel="RTP2">
+    <title lang="en">Degrassi: A Turma Seguinte</title>
+    <desc lang="en">Lola submete-se a um exigente teste. Tristan faz progressos. Maya afunda-se ainda mais na sua depressão. Miles teme que a peça seja demasiado reveladora.(n)</desc>
+  </programme>
+  <programme start="20210103183100 +0000" stop="20210103185300 +0000" channel="RTP2">
+    <title lang="en">Degrassi: A Turma Seguinte</title>
+    <desc lang="en">Maya tem um plano para superar do seu comportamento depressivo. Zoe faz um discurso arrojado no casamento da sua mãe. Frankie é apanhada a violar a privacidade alheia.(n)</desc>
+  </programme>
+  <programme start="20210103185300 +0000" stop="20210103191900 +0000" channel="RTP2">
+    <title lang="en">Degrassi: A Turma Seguinte</title>
+    <desc lang="en">Tristan vai ver a peça do liceu. Rasha assume-se a Goldi. Um aluno improvável encontra Maya no rescaldo do seu imprudente plano.(n)</desc>
+  </programme>
+  <programme start="20210103191900 +0000" stop="20210103194500 +0000" channel="RTP2">
+    <title lang="en">Vamos À Descoberta</title>
+    <desc lang="en">Um magazine apresentado por Fred, Jamy e Sabine, no qual são abordados diversos temas: a Terra, o universo, saúde, história e cultura ou tecnologia. A bordo do seu camião-laboratório, os três jornalistas percorrem locais incomuns para fornecer uma melhor compreensão do que nos rodeia, com explicações científicas acessíveis para todos.(n)</desc>
+  </programme>
+  <programme start="20210103194500 +0000" stop="20210103200200 +0000" channel="RTP2">
+    <title lang="en">Cuidado com a Língua!</title>
+    <desc lang="en">Entre campinos, touros e pastores na lezíria ribatejana decorre mais um 'Cuidado com a Língua'. Uma incursão a um sem-número de palavras, expressões e provérbios alusivos à arte campaniça - tais como «pampilho», «arrebanhar», «mulher, cavalo e cão, não se emprestam nem se dão» . Ou a história do uso do barrete nas suas diversas cores e designações ao longo dos tempos. E, ainda, a razão de chamar Ribatejo ao Ribatejo.(n)</desc>
+  </programme>
+  <programme start="20210103200200 +0000" stop="20210103202200 +0000" channel="RTP2">
+    <title lang="en">Corrida Ecológica</title>
+    <desc lang="en">Uma série da BBC World News sobre um recorde mundial de carros elétricos estabelecido por oito graduados em engenharia de Londres. Eles conseguem construir um carro elétrico com potência de 400 cavalos, uma velocidade máxima de 190 km/h e uma autonomia de mais de 500 km com uma única carga.(n)</desc>
+  </programme>
+  <programme start="20210103202200 +0000" stop="20210103213000 +0000" channel="RTP2">
+    <title lang="en">Chegou a Felicidade</title>
+    <desc lang="en">Na segunda temporada, a busca da felicidade de Angelica e Orlando será posta à prova, mas graças à união, entusiasmo e sobretudo ao seu amor, a felicidade chegará de novo. Passaram-se dois anos e meio desde que Angelica e Orlando perceberam que estavam apaixonados um pelo outro. Juntos reconstruiram a vida e formaram uma família alargada, com filhos para gerir, trabalho e os pequenos grandes problemas do dia-a-dia.(n)</desc>
+  </programme>
+  <programme start="20210103213000 +0000" stop="20210103214800 +0000" channel="RTP2">
+    <title lang="en">Jornal 2</title>
+    <desc lang="en">Jornal 2.(n)</desc>
+  </programme>
+  <programme start="20210103214800 +0000" stop="20210103220200 +0000" channel="RTP2">
+    <title lang="en">Página 2</title>
+    <desc lang="en">Programa de informação diária que faz uma análise destacada de um tema da atualidade.(n)</desc>
+  </programme>
+  <programme start="20210103220200 +0000" stop="20210103220700 +0000" channel="RTP2">
+    <title lang="en">Folha de Sala</title>
+    <desc lang="en">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências. Texto e locução de Manuela Silva Reis.(n)</desc>
+  </programme>
+  <programme start="20210103220700 +0000" stop="20210103230800 +0000" channel="RTP2">
+    <title lang="en">Diz-me Quem Sou</title>
+    <desc lang="en">Madrid, 1934. Influenciada pela sua família e para salvar a fábrica do seu pai, Amelia Garayoa concorda em casar-se com Santiago, um rico empresário que lhe garante uma vida confortável. Tudo mudará no dia em que Amelia conhecer os ideais revolucionários de Pierre, um jovem comunista que a fará repensar a sua vida.(n)</desc>
+  </programme>
 </tv>
